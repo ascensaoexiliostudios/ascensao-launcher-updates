@@ -1,0 +1,33 @@
+# Sempre que algo muda em modpack/, recalcula modpack/manifest.json (lista de arquivos + sha1)
+# e faz commit. Os launchers baixam só o que mudou na próxima vez que o jogador clicar em JOGAR.
+name: modpack-manifest
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'modpack/**'
+      - '!modpack/manifest.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: node tools/build-manifest.js
+
+      - name: Commit do manifest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add modpack/manifest.json
+          git diff --cached --quiet || (git commit -m "modpack: atualiza manifest" && git push)

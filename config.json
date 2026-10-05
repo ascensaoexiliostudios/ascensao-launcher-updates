@@ -1,0 +1,20 @@
+{
+  "serverName": "Ascensão SMP",
+  "subtitle": "O Exílio",
+  "serverAddress": "play.seuservidor.com",
+  "minecraftVersion": "1.20.1",
+  "forgeVersion": "47.4.0",
+  "allowOffline": true,
+  "seasonStart": "2026-10-01",
+  "news": [
+    "BEM-VINDO AO EXÍLIO",
+    "TEMPORADA 1 · ASCENSÃO",
+    "MINECRAFT 1.20.1 · FORGE",
+    "RESPEITE AS REGRAS DO SERVIDOR",
+    "O SINAL ESTÁ INSTÁVEL"
+  ],
+  "links": {
+    "discord": "",
+    "site": ""
+  }
+}

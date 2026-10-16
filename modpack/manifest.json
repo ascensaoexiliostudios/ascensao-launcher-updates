@@ -880,6 +880,12 @@
       "size": 432753
     },
     {
+      "path": "mods/rhino-forge-2001.2.3-build.10.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/rhino-forge-2001.2.3-build.10.jar",
+      "sha1": "c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1",
+      "size": 1798244
+    },
+    {
       "path": "mods/RingsOfAscension-1.20.1-2.0.2.jar",
       "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/RingsOfAscension-1.20.1-2.0.2.jar",
       "sha1": "d9e70093d6ac1b70823c48bf2742a9313c8a2989",

@@ -1,7 +1,7 @@
 {
   "serverName": "Ascensão SMP",
   "subtitle": "O Exílio",
-  "serverAddress": "play.seuservidor.com",
+  "serverAddress": "177.128.246.179:5028",
   "minecraftVersion": "1.20.1",
   "forgeVersion": "47.4.0",
   "allowOffline": true,
@@ -14,7 +14,7 @@
     "O SINAL ESTÁ INSTÁVEL"
   ],
   "links": {
-    "discord": "",
+    "discord": "https://discord.gg/DHDR5Gjc9w",
     "site": ""
   }
 }

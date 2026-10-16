@@ -970,6 +970,12 @@
       "size": 1763291
     },
     {
+      "path": "mods/sophisticatedstorage-1.20.1-1.5.1.2158.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/sophisticatedstorage-1.20.1-1.5.1.2158.jar",
+      "sha1": "9983ec2267727120843eefd2ea4a992e27d304d1",
+      "size": 1919182
+    },
+    {
       "path": "mods/supermartijn642corelib-1.1.25-forge-mc1.20.1.jar",
       "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/supermartijn642corelib-1.1.25-forge-mc1.20.1.jar",
       "sha1": "9f1fbfc7ab1a60529a570b8d7e49092502761cea",

@@ -262,6 +262,12 @@
       "size": 3503813
     },
     {
+      "path": "mods/create-1.20.1-6.0.6.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/create-1.20.1-6.0.6.jar",
+      "sha1": "c5eb5efad7a4776d558b44b28891f2e33eef03e4",
+      "size": 18764522
+    },
+    {
       "path": "mods/cristellib-1.1.6-forge.jar",
       "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/cristellib-1.1.6-forge.jar",
       "sha1": "524ecf0f93f28be2f5db21d87dd81bdbc1a450e1",

@@ -148,6 +148,12 @@
       "size": 2813612
     },
     {
+      "path": "mods/camera-forge-1.20.1-1.0.20.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/camera-forge-1.20.1-1.0.20.jar",
+      "sha1": "299cc4fa41a12a247cc73024259247574bfa5d0e",
+      "size": 299726
+    },
+    {
       "path": "mods/carryon-forge-1.20.1-2.1.2.7.jar",
       "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/carryon-forge-1.20.1-2.1.2.7.jar",
       "sha1": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f",
@@ -254,6 +260,12 @@
       "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/CrashAssistant-forge-1.19-1.20.1-1.11.12.jar",
       "sha1": "b309bd4803d5fcf27397b5ea60bbe4bb332bc809",
       "size": 3503813
+    },
+    {
+      "path": "mods/create-1.20.1-6.0.3.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/create-1.20.1-6.0.3.jar",
+      "sha1": "b71d9cc04601e4a0d2ccfb5d20b4d1fe3d5170f5",
+      "size": 18451637
     },
     {
       "path": "mods/cristellib-1.1.6-forge.jar",

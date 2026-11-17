@@ -1,4 +1,11 @@
 {
   "removeUnlisted": [],
-  "files": []
+  "files": [
+    {
+      "path": "mods",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods",
+      "sha1": "adc83b19e793491b1c6ea0fd8b46cd9f32e592fc",
+      "size": 1
+    }
+  ]
 }

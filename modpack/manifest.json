@@ -2,6 +2,12 @@
   "removeUnlisted": [],
   "files": [
     {
+      "path": "[1.20-1.20.1] Comics Bubbles Chat-1.3.4.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/%5B1.20-1.20.1%5D%20Comics%20Bubbles%20Chat-1.3.4.jar",
+      "sha1": "704023d1816fd4a22b5c1176b73221e6e1caaede",
+      "size": 59047
+    },
+    {
       "path": "mods",
       "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods",
       "sha1": "adc83b19e793491b1c6ea0fd8b46cd9f32e592fc",

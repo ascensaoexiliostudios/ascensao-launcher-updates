@@ -424,18 +424,6 @@
       "size": 767884
     },
     {
-      "path": "mods/exposure_expanded-forge-1.1.0-1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/exposure_expanded-forge-1.1.0-1.20.1.jar",
-      "sha1": "ffa9cd7eaceed6e3f80adf9b0e3b22a446e4d252",
-      "size": 773976
-    },
-    {
-      "path": "mods/exposure_polaroid-forge-1.20.1-1.1.4.jar",
-      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/exposure_polaroid-forge-1.20.1-1.1.4.jar",
-      "sha1": "da0c148b1253f6b9cbf48217273f35b2eb5a9ecb",
-      "size": 347523
-    },
-    {
       "path": "mods/FallingTree-1.20.1-4.3.4.jar",
       "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/FallingTree-1.20.1-4.3.4.jar",
       "sha1": "44d15ae2074b761597e8b8de5846cb2f98f64d25",

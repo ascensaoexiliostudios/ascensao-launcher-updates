@@ -1,0 +1,35 @@
+# Mods proibidos no Ascensão SMP
+# Um por linha: ID do mod ou um pedaço do nome do arquivo .jar
+# Se o jogador tiver um desses na pasta mods, o launcher move para mods-proibidos
+# antes de abrir o jogo. Linhas com # são ignoradas.
+#
+# Edite este arquivo no GitHub e faça Commit — os launchers pegam na próxima vez que
+# o jogador clicar em JOGAR.
+
+xray
+freecam
+meteor-client
+wurst
+aristois
+baritone
+impact
+future-client
+lambda
+rusherhack
+forgehax
+kaizo
+doomsday
+salhack
+kami
+inertia
+phobos
+konas
+pyro
+autocrystal
+trollhack
+3arthh4ck
+mathax
+thunderhack
+seedcracker
+cheatersdelight
+cheatutils

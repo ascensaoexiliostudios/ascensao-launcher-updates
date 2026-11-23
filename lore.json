@@ -1,0 +1,96 @@
+{
+  "chapters": [
+    {
+      "id": "um-mundo-novo",
+      "title": "Um Mundo Novo?",
+      "subtitle": "Registro 000",
+      "sealed": true,
+      "quote": "você pode conquistar tudo, basta apenas queimar tudo que lhe foi oferecido,\nafinal a morte é uma misericórdia para você.",
+      "text": "A escuridão sempre esteve a um passo de distância de você, apenas basta você saltar para conseguir o que você mais deseja.\n\nEles chamam isso de loucura, mas você sabe que é a única forma de clareza. O fogo não destrói, ele revela. Queima os títulos, queima as dívidas, queima as memórias que não são suas. O que sobrar da cinza será a única verdade que lhe pertence.\n\nO mundo lá fora continua girando, indiferente ao seu colapso interno. As luzes da cidade piscam como estrelas falsas, prometendo um céu que nunca existiu. Mas aqui, no limite do precipício, você finalmente ouve o silêncio. Não o silêncio da ausência de som, mas o silêncio da necessidade. Nada mais precisa ser provado. Nada mais precisa ser alcançado.\n\nA escuridão não é o fim. É onde as estrelas nascem antes de queimar o universo. Ao saltar, você não cai, você finalmente começa a voar. E quando seus pés tocarem o fundo, se é que existe um fundo, você descobrirá que a morte era apenas a porta. Do outro lado, um mundo novo espera. Não para ser conquistado. Mas para ser vivido, pela primeira vez, sem medo de perder o que nunca foi seu.",
+      "question": "mas me responda: o que é você?",
+      "ending": "AS CORRENTES QUEBRARAM"
+    },
+    {
+      "id": "registro-001",
+      "title": "???",
+      "subtitle": "Registro 001",
+      "locked": true
+    },
+    {
+      "id": "registro-002",
+      "title": "???",
+      "subtitle": "Registro 002",
+      "locked": true
+    },
+    {
+      "id": "registro-003",
+      "title": "???",
+      "subtitle": "Registro 003",
+      "locked": true
+    }
+  ],
+  "whispers": [
+    "O QUE É VOCÊ?",
+    "SALTE",
+    "QUEIME TUDO",
+    "O FOGO REVELA",
+    "A MORTE É A PORTA",
+    "AS CORRENTES QUEBRARAM",
+    "NADA DISSO É SEU",
+    "ESTRELAS FALSAS",
+    "UM MUNDO NOVO?"
+  ],
+  "terminal": {
+    "commands": {
+      "fogo": {
+        "hidden": true,
+        "reply": [
+          "queime os títulos.",
+          "queime as dívidas.",
+          "queime as memórias que não são suas."
+        ]
+      },
+      "escuridao": {
+        "hidden": true,
+        "reply": [
+          "ela sempre esteve a um passo de distância.",
+          "basta saltar."
+        ]
+      },
+      "morte": {
+        "hidden": true,
+        "reply": [
+          "é uma misericórdia.",
+          "para você."
+        ]
+      },
+      "estrelas": {
+        "hidden": true,
+        "reply": [
+          "as luzes da cidade piscam como estrelas falsas.",
+          "o céu nunca existiu."
+        ]
+      },
+      "fundo": {
+        "hidden": true,
+        "reply": [
+          "se é que existe um fundo."
+        ]
+      },
+      "eu": {
+        "hidden": true,
+        "reply": [
+          "{nome}?",
+          "não. tente de novo."
+        ]
+      },
+      "mundo novo": {
+        "hidden": true,
+        "reply": [
+          "não para ser conquistado.",
+          "mas para ser vivido."
+        ]
+      }
+    }
+  }
+}

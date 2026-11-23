@@ -1,0 +1,2850 @@
+{
+  "removeUnlisted": [
+    "mods"
+  ],
+  "forbidden": [
+    "xray",
+    "freecam",
+    "meteor-client",
+    "wurst",
+    "aristois",
+    "baritone",
+    "impact",
+    "future-client",
+    "lambda",
+    "rusherhack",
+    "forgehax",
+    "kaizo",
+    "doomsday",
+    "salhack",
+    "kami",
+    "inertia",
+    "phobos",
+    "konas",
+    "pyro",
+    "autocrystal",
+    "trollhack",
+    "3arthh4ck",
+    "mathax",
+    "thunderhack",
+    "seedcracker",
+    "cheatersdelight",
+    "cheatutils"
+  ],
+  "files": [
+    {
+      "path": "config/accessories.json5",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/accessories.json5",
+      "sha1": "363707622ec0ca27bcac8907ae9d1f68c94b3d9a",
+      "size": 745
+    },
+    {
+      "path": "config/advancementplaques-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/advancementplaques-common.toml",
+      "sha1": "a8e3e2fd8d86879c8a88aae5adf0fb0e143bbd0c",
+      "size": 3024
+    },
+    {
+      "path": "config/alexscaves_biome_generation/abyssal_chasm.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexscaves_biome_generation/abyssal_chasm.json",
+      "sha1": "d896874a9846b83f5cb90024810395dcf286e580",
+      "size": 272
+    },
+    {
+      "path": "config/alexscaves_biome_generation/candy_cavity.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexscaves_biome_generation/candy_cavity.json",
+      "sha1": "045cf36017defc58ed3f9492d3b64a45f0499b00",
+      "size": 227
+    },
+    {
+      "path": "config/alexscaves_biome_generation/forlorn_hollows.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexscaves_biome_generation/forlorn_hollows.json",
+      "sha1": "b7b6643ef384cfd4c97361a45b4ca29ca7c1f848",
+      "size": 226
+    },
+    {
+      "path": "config/alexscaves_biome_generation/magnetic_caves.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexscaves_biome_generation/magnetic_caves.json",
+      "sha1": "07646fea7d50314af33fff29c66f1f1f11d30119",
+      "size": 226
+    },
+    {
+      "path": "config/alexscaves_biome_generation/primordial_caves.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexscaves_biome_generation/primordial_caves.json",
+      "sha1": "cc4e5323cd767f17efbb6b8fcb4376ab6f144a06",
+      "size": 227
+    },
+    {
+      "path": "config/alexscaves_biome_generation/toxic_caves.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexscaves_biome_generation/toxic_caves.json",
+      "sha1": "992d39ce2bbb19bee9815772406237fe9db9a027",
+      "size": 226
+    },
+    {
+      "path": "config/alexscaves-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexscaves-client.toml",
+      "sha1": "d830fed5c1ab63e92897e091fa93900af577ddee",
+      "size": 1900
+    },
+    {
+      "path": "config/alexscaves-general.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexscaves-general.toml",
+      "sha1": "41bbf09bef87b9cafc7ad46eaac1f10efb2f9b93",
+      "size": 6084
+    },
+    {
+      "path": "config/alexsmobs.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs.toml",
+      "sha1": "36ca9d04900eb44d382360308d6ca622901da82c",
+      "size": 36192
+    },
+    {
+      "path": "config/alexsmobs/alligator_snapping_turtle_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/alligator_snapping_turtle_spawns.json",
+      "sha1": "2fecd47dfe3901bf041cdbfd7762775aed8ff02b",
+      "size": 754
+    },
+    {
+      "path": "config/alexsmobs/anaconda_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/anaconda_spawns.json",
+      "sha1": "5276886bf74157b158f4a554b7674bcc3b25817c",
+      "size": 1036
+    },
+    {
+      "path": "config/alexsmobs/anteater_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/anteater_spawns.json",
+      "sha1": "983d5b8a09faf49e73d82af7e3fb0d6d8a28ec4d",
+      "size": 1166
+    },
+    {
+      "path": "config/alexsmobs/bald_eagle_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/bald_eagle_spawns.json",
+      "sha1": "75bd4a673a5c6788f42a6bd6d2091127333efbcc",
+      "size": 2723
+    },
+    {
+      "path": "config/alexsmobs/banana_slug_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/banana_slug_spawns.json",
+      "sha1": "09614cac8bc432f04d9c00fc36ca5c19ee671957",
+      "size": 1697
+    },
+    {
+      "path": "config/alexsmobs/bison_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/bison_spawns.json",
+      "sha1": "43af4f66f883adee9ae16a3e373eae6056e212c1",
+      "size": 1761
+    },
+    {
+      "path": "config/alexsmobs/blobfish_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/blobfish_spawns.json",
+      "sha1": "f39ce83ec705fea5b1e181947ea3d690961a3556",
+      "size": 146
+    },
+    {
+      "path": "config/alexsmobs/blue_jay_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/blue_jay_spawns.json",
+      "sha1": "4a704c533746078e7338f88c29f181166a092606",
+      "size": 4020
+    },
+    {
+      "path": "config/alexsmobs/bone_serpent_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/bone_serpent_spawns.json",
+      "sha1": "a8f86f76bd08d4edf938eabb604cbb31c4b6ca48",
+      "size": 257
+    },
+    {
+      "path": "config/alexsmobs/bunfungus_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/bunfungus_spawns.json",
+      "sha1": "984700d0723c99153ae6fe1ea99d960f9a9c2ee1",
+      "size": 486
+    },
+    {
+      "path": "config/alexsmobs/cachalot_whale_beached_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/cachalot_whale_beached_spawns.json",
+      "sha1": "c428aeede9825f740c73a8e600785aa8b2c2d009",
+      "size": 642
+    },
+    {
+      "path": "config/alexsmobs/cachalot_whale_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/cachalot_whale_spawns.json",
+      "sha1": "725b91593440bd553a8a1aee2cc3d2fc11455519",
+      "size": 893
+    },
+    {
+      "path": "config/alexsmobs/caiman_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/caiman_spawns.json",
+      "sha1": "2dc9908d8f42e786d38bbdaba6a4ea5249dfb13e",
+      "size": 291
+    },
+    {
+      "path": "config/alexsmobs/capuchin_monkey_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/capuchin_monkey_spawns.json",
+      "sha1": "aba297cc13e94b9bc3111e2918d0dcb4a9495cca",
+      "size": 1184
+    },
+    {
+      "path": "config/alexsmobs/catfish_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/catfish_spawns.json",
+      "sha1": "97c6120785c5e8c11bc2a3f8aee9dafaaf4aeddb",
+      "size": 1097
+    },
+    {
+      "path": "config/alexsmobs/cave_centipede_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/cave_centipede_spawns.json",
+      "sha1": "5d660cef1ae0a0b876657cfc05714f149e5b5c90",
+      "size": 2200
+    },
+    {
+      "path": "config/alexsmobs/cockroach_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/cockroach_spawns.json",
+      "sha1": "82e37fd704a5a10f7fa31b7b1107d2c1635887fe",
+      "size": 2085
+    },
+    {
+      "path": "config/alexsmobs/comb_jelly_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/comb_jelly_spawns.json",
+      "sha1": "ced1e6a35f9debfda11e579fdd8d45a340c05630",
+      "size": 414
+    },
+    {
+      "path": "config/alexsmobs/cosmaw_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/cosmaw_spawns.json",
+      "sha1": "59349c0f99f2b4f452326602e27ca30a56094c22",
+      "size": 371
+    },
+    {
+      "path": "config/alexsmobs/cosmic_cod_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/cosmic_cod_spawns.json",
+      "sha1": "6d2ab311e1f341a4874c15ae97e420562b035c3a",
+      "size": 139
+    },
+    {
+      "path": "config/alexsmobs/crimson_mosquito_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/crimson_mosquito_spawns.json",
+      "sha1": "630cc53b571699dfa586a266d4f1e140add4569f",
+      "size": 785
+    },
+    {
+      "path": "config/alexsmobs/crocodile_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/crocodile_spawns.json",
+      "sha1": "f22c0286d65b7d5a181fe43c144f4ef689e14cde",
+      "size": 1007
+    },
+    {
+      "path": "config/alexsmobs/crow_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/crow_spawns.json",
+      "sha1": "c0dc5411da87174f0039b79b6eef90d3d9b570cf",
+      "size": 5146
+    },
+    {
+      "path": "config/alexsmobs/devils_hole_pupfish_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/devils_hole_pupfish_spawns.json",
+      "sha1": "72c87498fe92bbaedac0dd8f17fe45cd39f10175",
+      "size": 145
+    },
+    {
+      "path": "config/alexsmobs/dropbear_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/dropbear_spawns.json",
+      "sha1": "ee7447520b865a4a312e3ff51c7f562f15a95c1e",
+      "size": 403
+    },
+    {
+      "path": "config/alexsmobs/elephant_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/elephant_spawns.json",
+      "sha1": "174b8af7c5357d42f6c3d7cf46000abf001026c9",
+      "size": 1163
+    },
+    {
+      "path": "config/alexsmobs/emu_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/emu_spawns.json",
+      "sha1": "1350a531f941af07b0c590c6b03eed79569df58b",
+      "size": 1661
+    },
+    {
+      "path": "config/alexsmobs/endergrade_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/endergrade_spawns.json",
+      "sha1": "876c128ed4fc894d61aab0eb2c735e64fa6dc417",
+      "size": 250
+    },
+    {
+      "path": "config/alexsmobs/enderiophage_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/enderiophage_spawns.json",
+      "sha1": "b343e2bd88950cc0f5db7041b1a7708ffb51c5fb",
+      "size": 603
+    },
+    {
+      "path": "config/alexsmobs/farseer.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/farseer.json",
+      "sha1": "c5b5e8f7e9abfe66d5afc97649eba09c4cfc1139",
+      "size": 266
+    },
+    {
+      "path": "config/alexsmobs/flutter_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/flutter_spawns.json",
+      "sha1": "c7d78e61a3ded23ae0af88640b4f6e3788d91462",
+      "size": 147
+    },
+    {
+      "path": "config/alexsmobs/fly_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/fly_spawns.json",
+      "sha1": "72c87498fe92bbaedac0dd8f17fe45cd39f10175",
+      "size": 145
+    },
+    {
+      "path": "config/alexsmobs/flying_fish_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/flying_fish_spawns.json",
+      "sha1": "a2d8bb4c6f9b649b71187bbabd4ea33c0426bfa8",
+      "size": 716
+    },
+    {
+      "path": "config/alexsmobs/frilled_shark_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/frilled_shark_spawns.json",
+      "sha1": "f39ce83ec705fea5b1e181947ea3d690961a3556",
+      "size": 146
+    },
+    {
+      "path": "config/alexsmobs/froststalker_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/froststalker_spawns.json",
+      "sha1": "707c1d78e16032957b1b047a3559006883a66aa6",
+      "size": 934
+    },
+    {
+      "path": "config/alexsmobs/gazelle_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/gazelle_spawns.json",
+      "sha1": "f7ef705fb7988c423de961ecf5b6b50207e7508c",
+      "size": 1050
+    },
+    {
+      "path": "config/alexsmobs/gelada_monkey_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/gelada_monkey_spawns.json",
+      "sha1": "c44a53e041c9ae8e3902fa56954db39ce3d5a45b",
+      "size": 1001
+    },
+    {
+      "path": "config/alexsmobs/giant_squid_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/giant_squid_spawns.json",
+      "sha1": "f39ce83ec705fea5b1e181947ea3d690961a3556",
+      "size": 146
+    },
+    {
+      "path": "config/alexsmobs/gorilla_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/gorilla_spawns.json",
+      "sha1": "dbdc0203d5147edd4d7b9483b05778b381839ee2",
+      "size": 1053
+    },
+    {
+      "path": "config/alexsmobs/grizzly_bear_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/grizzly_bear_spawns.json",
+      "sha1": "4a704c533746078e7338f88c29f181166a092606",
+      "size": 4020
+    },
+    {
+      "path": "config/alexsmobs/guster_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/guster_spawns.json",
+      "sha1": "53d844c2dd6d3115cfe9a080261001f8decea616",
+      "size": 1132
+    },
+    {
+      "path": "config/alexsmobs/hammerhead_shark_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/hammerhead_shark_spawns.json",
+      "sha1": "771d7ce1bcd62741842c859ac372703137baf3e5",
+      "size": 254
+    },
+    {
+      "path": "config/alexsmobs/hummingbird_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/hummingbird_spawns.json",
+      "sha1": "87a5239ac83733283bda909fd7247cc8bdb7f68a",
+      "size": 3029
+    },
+    {
+      "path": "config/alexsmobs/jerboa_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/jerboa_spawns.json",
+      "sha1": "cfbc84bd92bb5e0bbc48c76264684b571c02b03a",
+      "size": 1252
+    },
+    {
+      "path": "config/alexsmobs/kangaroo_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/kangaroo_spawns.json",
+      "sha1": "1350a531f941af07b0c590c6b03eed79569df58b",
+      "size": 1661
+    },
+    {
+      "path": "config/alexsmobs/komodo_dragon_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/komodo_dragon_spawns.json",
+      "sha1": "878fc300de29d16d3bdbb5ec7f02cc2c1cce77ef",
+      "size": 775
+    },
+    {
+      "path": "config/alexsmobs/laviathan_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/laviathan_spawns.json",
+      "sha1": "b35947925d599eb04ee7075af6810dbe7b515052",
+      "size": 142
+    },
+    {
+      "path": "config/alexsmobs/leafcutter_anthill_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/leafcutter_anthill_spawns.json",
+      "sha1": "983d5b8a09faf49e73d82af7e3fb0d6d8a28ec4d",
+      "size": 1166
+    },
+    {
+      "path": "config/alexsmobs/lobster_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/lobster_spawns.json",
+      "sha1": "bfa5934e707e1a5fac743d40eede8a78dae13ff1",
+      "size": 398
+    },
+    {
+      "path": "config/alexsmobs/maned_wolf_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/maned_wolf_spawns.json",
+      "sha1": "e7262e3a8d7dea88c22540ac36efd9b82524384e",
+      "size": 1037
+    },
+    {
+      "path": "config/alexsmobs/mantis_shrimp_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/mantis_shrimp_spawns.json",
+      "sha1": "72ad572808fccf9db8b712f10c183d2a4b7553f1",
+      "size": 385
+    },
+    {
+      "path": "config/alexsmobs/mimic_octopus_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/mimic_octopus_spawns.json",
+      "sha1": "5862e4f48b9ff0a91ae853b372ff39c1fdc1d811",
+      "size": 373
+    },
+    {
+      "path": "config/alexsmobs/mimicube_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/mimicube_spawns.json",
+      "sha1": "cd826a993f60f9e7d48610c8d2ee7fe5f9742759",
+      "size": 365
+    },
+    {
+      "path": "config/alexsmobs/moose_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/moose_spawns.json",
+      "sha1": "0338509e62946b67dab42a836e3f7173816d7e60",
+      "size": 2291
+    },
+    {
+      "path": "config/alexsmobs/mudskipper_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/mudskipper_spawns.json",
+      "sha1": "2dc9908d8f42e786d38bbdaba6a4ea5249dfb13e",
+      "size": 291
+    },
+    {
+      "path": "config/alexsmobs/mungus_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/mungus_spawns.json",
+      "sha1": "984700d0723c99153ae6fe1ea99d960f9a9c2ee1",
+      "size": 486
+    },
+    {
+      "path": "config/alexsmobs/murmur.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/murmur.json",
+      "sha1": "5d660cef1ae0a0b876657cfc05714f149e5b5c90",
+      "size": 2200
+    },
+    {
+      "path": "config/alexsmobs/orca_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/orca_spawns.json",
+      "sha1": "146e692c90be265b1613fd9b1408f8ade11664e4",
+      "size": 255
+    },
+    {
+      "path": "config/alexsmobs/platypus_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/platypus_spawns.json",
+      "sha1": "9eab8f02129434149d2987a9cc819e9ca7e5b7fe",
+      "size": 625
+    },
+    {
+      "path": "config/alexsmobs/potoo_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/potoo_spawns.json",
+      "sha1": "426052ea6d093fe878779db6e1951a8accec897f",
+      "size": 148
+    },
+    {
+      "path": "config/alexsmobs/raccoon_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/raccoon_spawns.json",
+      "sha1": "aed625d8aa3416b513dc42f69c63804bbd5f4844",
+      "size": 3712
+    },
+    {
+      "path": "config/alexsmobs/rain_frog_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/rain_frog_spawns.json",
+      "sha1": "cfbc84bd92bb5e0bbc48c76264684b571c02b03a",
+      "size": 1252
+    },
+    {
+      "path": "config/alexsmobs/rattlesnake_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/rattlesnake_spawns.json",
+      "sha1": "19d14f488a5838da1ce23d99c992daf473b85b71",
+      "size": 1646
+    },
+    {
+      "path": "config/alexsmobs/rhinoceros_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/rhinoceros_spawns.json",
+      "sha1": "f7ef705fb7988c423de961ecf5b6b50207e7508c",
+      "size": 1050
+    },
+    {
+      "path": "config/alexsmobs/roadrunner_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/roadrunner_spawns.json",
+      "sha1": "19d14f488a5838da1ce23d99c992daf473b85b71",
+      "size": 1646
+    },
+    {
+      "path": "config/alexsmobs/rocky_roller_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/rocky_roller_spawns.json",
+      "sha1": "f31c14bed619ed97480a4aedc5aa194f4c1370ca",
+      "size": 673
+    },
+    {
+      "path": "config/alexsmobs/seagull_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/seagull_spawns.json",
+      "sha1": "c4e332410fcd6b13ec92c7a15f142e5155cb5274",
+      "size": 1296
+    },
+    {
+      "path": "config/alexsmobs/seal_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/seal_spawns.json",
+      "sha1": "5ba26fd7341af3fde7f8d10e5f02610e50019c7e",
+      "size": 877
+    },
+    {
+      "path": "config/alexsmobs/shoebill_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/shoebill_spawns.json",
+      "sha1": "8f030f0a1139b65cb6e92e4984c48cdd10ffcbaa",
+      "size": 623
+    },
+    {
+      "path": "config/alexsmobs/skelewag_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/skelewag_spawns.json",
+      "sha1": "75a57df134990d2a97421412ee78f9111c38d41b",
+      "size": 374
+    },
+    {
+      "path": "config/alexsmobs/skreecher.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/skreecher.json",
+      "sha1": "740c686d3f6779fd3489b45d7b2efd266d61a448",
+      "size": 276
+    },
+    {
+      "path": "config/alexsmobs/skunk_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/skunk_spawns.json",
+      "sha1": "0076cc9f728c452cf22a59943a7fae1db2c71f26",
+      "size": 2037
+    },
+    {
+      "path": "config/alexsmobs/snow_leopard_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/snow_leopard_spawns.json",
+      "sha1": "969c78799fd70bc5ad20ce46a157b14ac4b7d6df",
+      "size": 1808
+    },
+    {
+      "path": "config/alexsmobs/soul_vulture_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/soul_vulture_spawns.json",
+      "sha1": "d5308c6dc90f1a0d12707301407de4ff104b09d5",
+      "size": 523
+    },
+    {
+      "path": "config/alexsmobs/spectre_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/spectre_spawns.json",
+      "sha1": "876c128ed4fc894d61aab0eb2c735e64fa6dc417",
+      "size": 250
+    },
+    {
+      "path": "config/alexsmobs/straddler_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/straddler_spawns.json",
+      "sha1": "e4c76844b021e21b41fb5c9576bf09312c77b845",
+      "size": 664
+    },
+    {
+      "path": "config/alexsmobs/stradpole_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/stradpole_spawns.json",
+      "sha1": "e4c76844b021e21b41fb5c9576bf09312c77b845",
+      "size": 664
+    },
+    {
+      "path": "config/alexsmobs/sugar_glider_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/sugar_glider_spawns.json",
+      "sha1": "62d2952af8a99284a2072613584475532fa3976d",
+      "size": 418
+    },
+    {
+      "path": "config/alexsmobs/sunbird_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/sunbird_spawns.json",
+      "sha1": "d00d854a7a859be448d448854a489fb4bf5b3754",
+      "size": 3925
+    },
+    {
+      "path": "config/alexsmobs/tarantula_hawk_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/tarantula_hawk_spawns.json",
+      "sha1": "cfbc84bd92bb5e0bbc48c76264684b571c02b03a",
+      "size": 1252
+    },
+    {
+      "path": "config/alexsmobs/tasmanian_devil_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/tasmanian_devil_spawns.json",
+      "sha1": "167c8f350e93cdfe00e85956dfa7fe40363cda1d",
+      "size": 1908
+    },
+    {
+      "path": "config/alexsmobs/terrapin_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/terrapin_spawns.json",
+      "sha1": "9eab8f02129434149d2987a9cc819e9ca7e5b7fe",
+      "size": 625
+    },
+    {
+      "path": "config/alexsmobs/tiger_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/tiger_spawns.json",
+      "sha1": "50c690955ef10c27602d6cc9a146721998408c20",
+      "size": 1209
+    },
+    {
+      "path": "config/alexsmobs/toucan_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/toucan_spawns.json",
+      "sha1": "983d5b8a09faf49e73d82af7e3fb0d6d8a28ec4d",
+      "size": 1166
+    },
+    {
+      "path": "config/alexsmobs/triops_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/triops_spawns.json",
+      "sha1": "cfbc84bd92bb5e0bbc48c76264684b571c02b03a",
+      "size": 1252
+    },
+    {
+      "path": "config/alexsmobs/tusklin_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/tusklin_spawns.json",
+      "sha1": "34c622e3e5c3839d628085fc1cf0fdc4d93d0e5a",
+      "size": 882
+    },
+    {
+      "path": "config/alexsmobs/underminer.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/underminer.json",
+      "sha1": "82e37fd704a5a10f7fa31b7b1107d2c1635887fe",
+      "size": 2085
+    },
+    {
+      "path": "config/alexsmobs/void_worm_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/void_worm_spawns.json",
+      "sha1": "1ae814f47278ae5e83f93b711cb1b22df42fa5c4",
+      "size": 18
+    },
+    {
+      "path": "config/alexsmobs/warped_mosco_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/warped_mosco_spawns.json",
+      "sha1": "1ae814f47278ae5e83f93b711cb1b22df42fa5c4",
+      "size": 18
+    },
+    {
+      "path": "config/alexsmobs/warped_toad_spawns.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/alexsmobs/warped_toad_spawns.json",
+      "sha1": "5cd292af241f4ee8699dc810bccdcfe29135fcc9",
+      "size": 661
+    },
+    {
+      "path": "config/appleskin-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/appleskin-client.toml",
+      "sha1": "b4e86d6354c33b1de20db6672f2f8e93cd084fac",
+      "size": 1361
+    },
+    {
+      "path": "config/artifacts/client.json5",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/artifacts/client.json5",
+      "sha1": "bef425caaadc687e5631e449d8ed04cbde91b811",
+      "size": 551
+    },
+    {
+      "path": "config/artifacts/common.json5",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/artifacts/common.json5",
+      "sha1": "deaf54934c7839aed557d78256f459af97b5a316",
+      "size": 1584
+    },
+    {
+      "path": "config/bcc-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/bcc-common.toml",
+      "sha1": "5fa25534f5982d7cc1b50c2fe84936b996b857bd",
+      "size": 370
+    },
+    {
+      "path": "config/beachparty.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/beachparty.toml",
+      "sha1": "c0ad00934c6d8d4f5e1174e799bac2d58d320437",
+      "size": 394
+    },
+    {
+      "path": "config/betterdungeons-forge-1_20.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/betterdungeons-forge-1_20.toml",
+      "sha1": "84c0684cbd0745015f8a3e743d49e7b153ef555f",
+      "size": 3486
+    },
+    {
+      "path": "config/bettervillage_1.properties",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/bettervillage_1.properties",
+      "sha1": "c477d2eaa24e5817e4b8857b48e862e5206ff2a0",
+      "size": 270
+    },
+    {
+      "path": "config/biomesoplenty/biome_toggles.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/biomesoplenty/biome_toggles.json",
+      "sha1": "9bb1818da5a78ffd167fadf30d118e96af378e0b",
+      "size": 1999
+    },
+    {
+      "path": "config/biomesoplenty/generation.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/biomesoplenty/generation.toml",
+      "sha1": "eb379261d57303e2e9601063eabba7ae19efea10",
+      "size": 619
+    },
+    {
+      "path": "config/braziliandelight.common.conf",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/braziliandelight.common.conf",
+      "sha1": "a4b248c3abef79a12a13fa20a1433e4d8be04e17",
+      "size": 30
+    },
+    {
+      "path": "config/carryon-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/carryon-client.toml",
+      "sha1": "9fb9fbd6e6ec34a8f19e6a1e3adc113119448bec",
+      "size": 590
+    },
+    {
+      "path": "config/carryon-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/carryon-common.toml",
+      "sha1": "d091d3a1dd77efc1dfe683b5142fba2ed2bf1c7e",
+      "size": 7153
+    },
+    {
+      "path": "config/cataclysm-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/cataclysm-client.toml",
+      "sha1": "02c5a9e5a54ea8d17fc611812e72ff8acd292602",
+      "size": 527
+    },
+    {
+      "path": "config/cataclysm-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/cataclysm-common.toml",
+      "sha1": "2b4d1a90bffdb7fe8414f9cc7c69d8fa0143a4ee",
+      "size": 26343
+    },
+    {
+      "path": "config/celestisynth/celestisynth-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/celestisynth/celestisynth-client.toml",
+      "sha1": "65754fc5a124da94376b3112dc3902891f3ec079",
+      "size": 410
+    },
+    {
+      "path": "config/celestisynth/celestisynth-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/celestisynth/celestisynth-common.toml",
+      "sha1": "f952bd41873928f39a8a81baa56bf524ef3153c9",
+      "size": 157
+    },
+    {
+      "path": "config/chatplus/chatplus-v2.7.0.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/chatplus/chatplus-v2.7.0.json",
+      "sha1": "60f50ff18985014a52d85168ee3665a8678ae40a",
+      "size": 10842
+    },
+    {
+      "path": "config/citadel-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/citadel-common.toml",
+      "sha1": "f3aad9442cc4ae95760ceb68f75d5735e9247f6a",
+      "size": 648
+    },
+    {
+      "path": "config/collective.json5",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/collective.json5",
+      "sha1": "c1624f54bd7a0d62ba11ec281fb6baf6901874ac",
+      "size": 2471
+    },
+    {
+      "path": "config/colorfulhearts.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/colorfulhearts.toml",
+      "sha1": "55a842159ae4fb6705c84d510b268db2979c5709",
+      "size": 1751
+    },
+    {
+      "path": "config/comicsbubbleschat-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/comicsbubbleschat-client.toml",
+      "sha1": "f658f8867036bdc74abfab4674039119628642e4",
+      "size": 766
+    },
+    {
+      "path": "config/constructionwand-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/constructionwand-client.toml",
+      "sha1": "02aac28292c4b528d9ababf94209cea204d9d026",
+      "size": 846
+    },
+    {
+      "path": "config/corgilib/announcement_config.json5",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/corgilib/announcement_config.json5",
+      "sha1": "d8cae15454eb34eed393b769633140d2896b2750",
+      "size": 362
+    },
+    {
+      "path": "config/corpsecurioscompat-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/corpsecurioscompat-common.toml",
+      "sha1": "003eee951c7f089eadeec1507e6d835eb2046209",
+      "size": 292
+    },
+    {
+      "path": "config/cosmeticarmorreworked-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/cosmeticarmorreworked-client.toml",
+      "sha1": "ae16b9d64e0ce6a136e8feb2533859729fb4daf9",
+      "size": 1230
+    },
+    {
+      "path": "config/cosmeticarmorreworked-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/cosmeticarmorreworked-common.toml",
+      "sha1": "1c8e89f7f3f6a305ca79dd5b32511aea9c6a6f36",
+      "size": 379
+    },
+    {
+      "path": "config/cpm.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/cpm.json",
+      "sha1": "18360acbb8bd226cea750876f385eb84a542999d",
+      "size": 505
+    },
+    {
+      "path": "config/crash_assistant/config.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/crash_assistant/config.toml",
+      "sha1": "23c6efdf1c0e361d7bd6a0e8296943ad0a6bc9ad",
+      "size": 24222
+    },
+    {
+      "path": "config/crash_assistant/scripts/log_analysis/example.jexl",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/crash_assistant/scripts/log_analysis/example.jexl",
+      "sha1": "e492d6b210af660f57e4ace58fb84c18230d1c9e",
+      "size": 3495
+    },
+    {
+      "path": "config/crash_assistant/scripts/startup/example.jexl",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/crash_assistant/scripts/startup/example.jexl",
+      "sha1": "ef0a9386e87bc61457902ec5b2953a6ab4254d6e",
+      "size": 4408
+    },
+    {
+      "path": "config/createaddition-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/createaddition-common.toml",
+      "sha1": "ff3f188798940d42ee0ed9f94b1cf945ed7cbab0",
+      "size": 4446
+    },
+    {
+      "path": "config/cristellib/minecraftED.json5",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/cristellib/minecraftED.json5",
+      "sha1": "ad903b25383fecd3031d215cf420d4eca8423185",
+      "size": 1476
+    },
+    {
+      "path": "config/cristellib/minecraftP.json5",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/cristellib/minecraftP.json5",
+      "sha1": "dfa2d954a36b6dc938e63c8a3a0ecefd9d468033",
+      "size": 1752
+    },
+    {
+      "path": "config/crittersandcompanions-common.json5",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/crittersandcompanions-common.json5",
+      "sha1": "6cee81c5645f6978355f952befbf4f6e8af1a3c8",
+      "size": 4354
+    },
+    {
+      "path": "config/croptopia/croptopia_v3.conf",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/croptopia/croptopia_v3.conf",
+      "sha1": "a3a169e965e930718205218cfec556a996d76d80",
+      "size": 13630
+    },
+    {
+      "path": "config/curios-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/curios-client.toml",
+      "sha1": "3034250c05362494c9f366e5cca449dcea88885d",
+      "size": 706
+    },
+    {
+      "path": "config/curios-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/curios-common.toml",
+      "sha1": "71b3af0db517d1651174a40732633899cbabc927",
+      "size": 161
+    },
+    {
+      "path": "config/decorative_core-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/decorative_core-client.toml",
+      "sha1": "2993cb745bceff785802189372faae9aa912a8e2",
+      "size": 394
+    },
+    {
+      "path": "config/deltaboxlib.common.conf",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/deltaboxlib.common.conf",
+      "sha1": "889efd0074ee4323295b4f98f106a17dc98d2ddb",
+      "size": 370
+    },
+    {
+      "path": "config/doubledoors.json5",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/doubledoors.json5",
+      "sha1": "637a177420ad5471e1e421479677f51c8715cd8c",
+      "size": 981
+    },
+    {
+      "path": "config/dummmmmmy-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/dummmmmmy-client.toml",
+      "sha1": "2f0d6dc3777ad0841bc4fac1dfa2fdc9b457878e",
+      "size": 1611
+    },
+    {
+      "path": "config/dummmmmmy-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/dummmmmmy-common.toml",
+      "sha1": "a888fd55c681d8371c4fc1c5f96f8826fb316912",
+      "size": 1277
+    },
+    {
+      "path": "config/dynamic_fps.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/dynamic_fps.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "size": 3
+    },
+    {
+      "path": "config/easy_villagers-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/easy_villagers-client.toml",
+      "sha1": "4304ba51713099157fd969c269ff4d22ffd5ad9a",
+      "size": 684
+    },
+    {
+      "path": "config/easyanvils-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/easyanvils-client.toml",
+      "sha1": "f3bfa8f96afff5f3e5c95dd9773ed9fe54e26c40",
+      "size": 73
+    },
+    {
+      "path": "config/embeddium-fingerprint.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/embeddium-fingerprint.json",
+      "sha1": "2e31e8011509d16dbf2656364acbe5b6bc978790",
+      "size": 427
+    },
+    {
+      "path": "config/embeddium-mixins.properties",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/embeddium-mixins.properties",
+      "sha1": "a729ee50d18cf2204ff9fc33bc21641d55185c88",
+      "size": 269
+    },
+    {
+      "path": "config/embeddium-options.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/embeddium-options.json",
+      "sha1": "afbb0f569485352a45a27d9d901d3c2fbef14915",
+      "size": 852
+    },
+    {
+      "path": "config/emotecraft_borrow_their_emote.json5",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/emotecraft_borrow_their_emote.json5",
+      "sha1": "8ccc28951377831f23956d287757537e61d315a6",
+      "size": 308
+    },
+    {
+      "path": "config/emotecraft_emote_map.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/emotecraft_emote_map.json",
+      "sha1": "be63473ca7f8286a8827f2e151fff6ce4016ff4d",
+      "size": 117
+    },
+    {
+      "path": "config/emotecraft.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/emotecraft.json",
+      "sha1": "212357de0d0bc3432e2ca5a1ac866e88e89b2e69",
+      "size": 647
+    },
+    {
+      "path": "config/enchdesc.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/enchdesc.json",
+      "sha1": "171e9e9bf1c0eb070d19730bf2eb2a2e049bfbbb",
+      "size": 189
+    },
+    {
+      "path": "config/enemyexpansion.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/enemyexpansion.toml",
+      "sha1": "a6bfda7a935ee9c7993b6575617a2d8cf6c411c4",
+      "size": 991
+    },
+    {
+      "path": "config/evenmore_instrument_configs.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/evenmore_instrument_configs.toml",
+      "sha1": "ca1bd737b1af82cf218544ad774a1595ef0a6d12",
+      "size": 138
+    },
+    {
+      "path": "config/explorify/structure_settings.json5",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/explorify/structure_settings.json5",
+      "sha1": "cd5fee99eb8eeef58b3100ef454a3ab20d0465dd",
+      "size": 1737
+    },
+    {
+      "path": "config/explorify/structure_toggles.json5",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/explorify/structure_toggles.json5",
+      "sha1": "b476f62f7a806f22c17a6e58b08bc1ff39110910",
+      "size": 858
+    },
+    {
+      "path": "config/exposure_polaroid-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/exposure_polaroid-client.toml",
+      "sha1": "84bec74e395e31a33233ad8d008577f109835f1e",
+      "size": 595
+    },
+    {
+      "path": "config/exposure-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/exposure-client.toml",
+      "sha1": "a4d81c951b61dc1617fed3096db9fe8756ef2fc8",
+      "size": 6478
+    },
+    {
+      "path": "config/exposure-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/exposure-common.toml",
+      "sha1": "f66d4a5b98fe865912630ad254a860861e798576",
+      "size": 564
+    },
+    {
+      "path": "config/fallingtree.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/fallingtree.json",
+      "sha1": "451006bfc2896c517edeeb0814af55721be8377c",
+      "size": 1273
+    },
+    {
+      "path": "config/farmandcharm.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/farmandcharm.toml",
+      "sha1": "24e1d87666674e5f9d641ac5cba11db019e9d5e1",
+      "size": 4416
+    },
+    {
+      "path": "config/farmersdelight-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/farmersdelight-client.toml",
+      "sha1": "0837b7da65d2d2b5fe8430ecddae8a97379d8c55",
+      "size": 478
+    },
+    {
+      "path": "config/farmersdelight-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/farmersdelight-common.toml",
+      "sha1": "5f3a0af48b61c6b2935284df7282d6a32fad7414",
+      "size": 3930
+    },
+    {
+      "path": "config/fastbench.cfg",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/fastbench.cfg",
+      "sha1": "b3f5e39b2531a4c40082b5f6bde35955d2d76f4d",
+      "size": 541
+    },
+    {
+      "path": "config/fastpaintings-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/fastpaintings-common.toml",
+      "sha1": "5e5251d324d0d82db1876f698fa326c9aad870c5",
+      "size": 133
+    },
+    {
+      "path": "config/fastsuite.cfg",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/fastsuite.cfg",
+      "sha1": "53080f2147a8fccc967a70c817a01819e1a4e0e7",
+      "size": 918
+    },
+    {
+      "path": "config/flywheel-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/flywheel-client.toml",
+      "sha1": "639d5e69ea5cb1da413f82aec2484e390cb5c57c",
+      "size": 623
+    },
+    {
+      "path": "config/fml.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/fml.toml",
+      "sha1": "726869383a0dd9368201319b75b902b2e5c8207f",
+      "size": 1148
+    },
+    {
+      "path": "config/forge-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/forge-client.toml",
+      "sha1": "55e80f51f0c9cf66de1f95c4d775b24dc59627a1",
+      "size": 1628
+    },
+    {
+      "path": "config/framedblocks-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/framedblocks-client.toml",
+      "sha1": "2ba6af2c2c31248531b3006639a2e14317ac028e",
+      "size": 5520
+    },
+    {
+      "path": "config/framedblocks-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/framedblocks-common.toml",
+      "sha1": "f8efa1a3390a49582897e7db97f163ee62e97c01",
+      "size": 93
+    },
+    {
+      "path": "config/friendsandfoes.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/friendsandfoes.json",
+      "sha1": "42ef53c3c156986065aa08ccf4bd714cde6706b1",
+      "size": 3209
+    },
+    {
+      "path": "config/furnitury-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/furnitury-common.toml",
+      "sha1": "4b1c05a91941e7137681be5f15f07f943fecdfc0",
+      "size": 316
+    },
+    {
+      "path": "config/fzzy_config/keybinds.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/fzzy_config/keybinds.toml",
+      "sha1": "f808afa706d9a4934612b20e1efd513416a0e8f1",
+      "size": 6403
+    },
+    {
+      "path": "config/goblintraders-entities.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/goblintraders-entities.toml",
+      "sha1": "5bfde2141f99fe1c4cc4cc0abe24baf90c20dca8",
+      "size": 7077
+    },
+    {
+      "path": "config/herbalbrews.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/herbalbrews.toml",
+      "sha1": "5ddef69e82cbbc4bb5b5fb1953a35f405137b330",
+      "size": 742
+    },
+    {
+      "path": "config/hiddennames-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/hiddennames-client.toml",
+      "sha1": "8ade6611fe156c78dca57542e922841d5c7e805f",
+      "size": 211
+    },
+    {
+      "path": "config/highlighter-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/highlighter-common.toml",
+      "sha1": "dc349957d497a63bb14aaa4a37e09f7d008a65c2",
+      "size": 720
+    },
+    {
+      "path": "config/instrument_configs.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/instrument_configs.toml",
+      "sha1": "c6f61974176536193b57737555692a4c2f567f19",
+      "size": 1669
+    },
+    {
+      "path": "config/ironfurnaces-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/ironfurnaces-client.toml",
+      "sha1": "1ce2a207ac578e2aa1c12682d3cd81585eccefb3",
+      "size": 7308
+    },
+    {
+      "path": "config/ironfurnaces.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/ironfurnaces.toml",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0
+    },
+    {
+      "path": "config/irons_restrictions-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/irons_restrictions-common.toml",
+      "sha1": "ed0ba44e8fc922d0a903f94b99f4c3569b2dfb80",
+      "size": 1716
+    },
+    {
+      "path": "config/irons_spellbooks_spell_config/global_config.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/irons_spellbooks_spell_config/global_config.json",
+      "sha1": "3fd1649e33039ce955191888a01c0742aa31a0f9",
+      "size": 257
+    },
+    {
+      "path": "config/irons_spellbooks_spell_config/irons_spellbooks/example.txt",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/irons_spellbooks_spell_config/irons_spellbooks/example.txt",
+      "sha1": "26df5f80fefa3dbe361725e074599cd98bb05f71",
+      "size": 683
+    },
+    {
+      "path": "config/irons_spellbooks-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/irons_spellbooks-client.toml",
+      "sha1": "fbc4025b01acdd3bf4fd31d0844cb9bb8bbb4991",
+      "size": 3575
+    },
+    {
+      "path": "config/item_obliterator.json5",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/item_obliterator.json5",
+      "sha1": "9fdd052af9e40e21a6a0dcb9e9569bb3e7ace4f4",
+      "size": 2474
+    },
+    {
+      "path": "config/itemborders-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/itemborders-common.toml",
+      "sha1": "c6e8c86c0d26084f947314788df0399a70d6e2e4",
+      "size": 4243
+    },
+    {
+      "path": "config/jade/hide-blocks.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/jade/hide-blocks.json",
+      "sha1": "8b3297cc5db5ed84dd48d2905fb21ee3063e0e25",
+      "size": 191
+    },
+    {
+      "path": "config/jade/hide-entities.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/jade/hide-entities.json",
+      "sha1": "548656ff89ad489730a4b5fdf071a6e98fcd5033",
+      "size": 325
+    },
+    {
+      "path": "config/jade/jade.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/jade/jade.json",
+      "sha1": "2fb491dec13b7ad7d2f47f6b4a5a177efb31031c",
+      "size": 974
+    },
+    {
+      "path": "config/jade/plugins.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/jade/plugins.json",
+      "sha1": "1d9494f74926d91b6dbf56dc0a292ee2cfcb009c",
+      "size": 2184
+    },
+    {
+      "path": "config/jade/sort-order.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/jade/sort-order.json",
+      "sha1": "aca359d6aa52ad3029452a0c2bf360ac7604873b",
+      "size": 1941
+    },
+    {
+      "path": "config/justzoom/config.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/justzoom/config.json",
+      "sha1": "6b7a476829856a0a7a0ef6573cd8cb09c0e7b0fd",
+      "size": 667
+    },
+    {
+      "path": "config/konkrete/locals/de_de.local",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/konkrete/locals/de_de.local",
+      "sha1": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5",
+      "size": 369
+    },
+    {
+      "path": "config/konkrete/locals/en_us.local",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/konkrete/locals/en_us.local",
+      "sha1": "42badc338e767559db38a67bd3e8020a92000e56",
+      "size": 426
+    },
+    {
+      "path": "config/konkrete/locals/pl_pl.local",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/konkrete/locals/pl_pl.local",
+      "sha1": "adf2ded54b4952ca83af26a1217e2c5db8ac1429",
+      "size": 313
+    },
+    {
+      "path": "config/konkrete/locals/pt_br.local",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/konkrete/locals/pt_br.local",
+      "sha1": "9c324fb4d33106366e6cbb5400c8c34f11539d34",
+      "size": 322
+    },
+    {
+      "path": "config/legendarytooltips-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/legendarytooltips-common.toml",
+      "sha1": "236a1a7858c31c29f236e0e993d967ebf493396b",
+      "size": 8283
+    },
+    {
+      "path": "config/libraryferret_1.properties",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/libraryferret_1.properties",
+      "sha1": "abaa6a5e1f45f78f9cdfc969b1f1abfd87a10add",
+      "size": 193
+    },
+    {
+      "path": "config/lithostitched.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/lithostitched.json",
+      "sha1": "d8ab129158fc6ff5d685a9938528ec1d35c83e48",
+      "size": 284
+    },
+    {
+      "path": "config/lootr-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/lootr-client.toml",
+      "sha1": "ff7253d7fc45796726ffaca7ee41af83e2227b8f",
+      "size": 243
+    },
+    {
+      "path": "config/lootr-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/lootr-common.toml",
+      "sha1": "51de7a1af778b23f307e2d6969b670cef349f8d7",
+      "size": 6610
+    },
+    {
+      "path": "config/meadow.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/meadow.toml",
+      "sha1": "a0f2560d547320bcf6f2e4bd1a017b4ed1f3492d",
+      "size": 233
+    },
+    {
+      "path": "config/modmenu.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/modmenu.json",
+      "sha1": "7e4d498194b4cfea3ac311623fe09a3fa2927860",
+      "size": 814
+    },
+    {
+      "path": "config/moonlight-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/moonlight-client.toml",
+      "sha1": "2b7b74e7a52aa0863a6d8d92ceca1e7e5dc247be",
+      "size": 1027
+    },
+    {
+      "path": "config/moonlight-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/moonlight-common.toml",
+      "sha1": "ad306d35d661dfff2a752674eb4b8e05f05f1c8e",
+      "size": 1023
+    },
+    {
+      "path": "config/MouseTweaks.cfg",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/MouseTweaks.cfg",
+      "sha1": "651b3e4db2d430dc1da3566b2984b264061a6794",
+      "size": 135
+    },
+    {
+      "path": "config/mowziesmobs-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/mowziesmobs-client.toml",
+      "sha1": "6bc3309d4a30764cc565aecf872c61bc074db30a",
+      "size": 984
+    },
+    {
+      "path": "config/mowziesmobs-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/mowziesmobs-common.toml",
+      "sha1": "c9f7e897131f5a7af75b24032f3607cdef058b9e",
+      "size": 35974
+    },
+    {
+      "path": "config/necronomicon.json5",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/necronomicon.json5",
+      "sha1": "d008a338ce5fff7b6157c5a3611debb896634dd0",
+      "size": 266
+    },
+    {
+      "path": "config/paraglider-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/paraglider-common.toml",
+      "sha1": "2051bf786d643516d847e075931436996df5bbd0",
+      "size": 1336
+    },
+    {
+      "path": "config/paraglider-player-states.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/paraglider-player-states.toml",
+      "sha1": "f41002e2b4ffadc874b126d73021b5bf23336def",
+      "size": 1526
+    },
+    {
+      "path": "config/polymorph-integrations.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/polymorph-integrations.toml",
+      "sha1": "d55bad6049b27267217efb2e12c1f4ac0058f35b",
+      "size": 333
+    },
+    {
+      "path": "config/ponder-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/ponder-client.toml",
+      "sha1": "0b19ea00344a54de06114aa1a0f1d4bec95782d1",
+      "size": 619
+    },
+    {
+      "path": "config/quark-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/quark-common.toml",
+      "sha1": "0769bbcf94f4abf3c7ffe5112efaba5c8b82deb3",
+      "size": 82279
+    },
+    {
+      "path": "config/refurbished_furniture.client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/refurbished_furniture.client.toml",
+      "sha1": "a410c5a71df1ccd7490c509d2b25c722bd9fd4f2",
+      "size": 1177
+    },
+    {
+      "path": "config/ringsofascension-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/ringsofascension-common.toml",
+      "sha1": "439fdc98ea7915284ff720cef77c0fd14e3775a0",
+      "size": 1632
+    },
+    {
+      "path": "config/scribble.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/scribble.json",
+      "sha1": "2671c045676b8240047ba12d1c42541c97891cfd",
+      "size": 146
+    },
+    {
+      "path": "config/securitycraft-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/securitycraft-client.toml",
+      "sha1": "e34f7e926fc6ffcaf55590a73afc9589d719e8f9",
+      "size": 1951
+    },
+    {
+      "path": "config/simplehats.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/simplehats.json",
+      "sha1": "e736742a4bcee132ac7d00491ebcd62eb9289332",
+      "size": 105169
+    },
+    {
+      "path": "config/simplehats/client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/simplehats/client.toml",
+      "sha1": "1c61d2bdf0e1cbaf0ee1a36129253350fae94621",
+      "size": 50
+    },
+    {
+      "path": "config/simplehats/common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/simplehats/common.toml",
+      "sha1": "865032fc35de7ceee9a1a48b565e713846338a6e",
+      "size": 345
+    },
+    {
+      "path": "config/simplybows/config.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/simplybows/config.toml",
+      "sha1": "3c1a693a88cf4578d856fa1ef88d12043164aa44",
+      "size": 7818
+    },
+    {
+      "path": "config/simplymore/loot.json5",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/simplymore/loot.json5",
+      "sha1": "34ff5fb3d778045bc96f95178b159ecbf9785535",
+      "size": 1293
+    },
+    {
+      "path": "config/simplymore/mimicry_attributes.json5",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/simplymore/mimicry_attributes.json5",
+      "sha1": "b7716ac6d71bb6e399403f59dd33f1758ff829fe",
+      "size": 4334
+    },
+    {
+      "path": "config/simplymore/unique_effects.json5",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/simplymore/unique_effects.json5",
+      "sha1": "ecd8ec95abe771ff300d542d7e18472a2ab7b16f",
+      "size": 6874
+    },
+    {
+      "path": "config/simplymore/weapon_attributes.json5",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/simplymore/weapon_attributes.json5",
+      "sha1": "fe5fab47f3cfe0b25ed6b52376d548cd17cb5d2b",
+      "size": 3943
+    },
+    {
+      "path": "config/simplyswords/compatibility.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/simplyswords/compatibility.toml",
+      "sha1": "5040fe9878b3effc19a554a449de633aed6dd0cf",
+      "size": 11974
+    },
+    {
+      "path": "config/simplyswords/gem_powers.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/simplyswords/gem_powers.toml",
+      "sha1": "568e9210b1e95509d9d8ff2639f6d64502a7a02a",
+      "size": 3651
+    },
+    {
+      "path": "config/simplyswords/general.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/simplyswords/general.toml",
+      "sha1": "d2fefc65cc6bb3fde306b657918babb64b2cf538",
+      "size": 873
+    },
+    {
+      "path": "config/simplyswords/gui.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/simplyswords/gui.toml",
+      "sha1": "69205c83e7995a6e5c7f0722da1b85d9e808430e",
+      "size": 106
+    },
+    {
+      "path": "config/simplyswords/loot.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/simplyswords/loot.toml",
+      "sha1": "06ae15d9c0b56021316983f0ef82f5c64a4e152b",
+      "size": 1314
+    },
+    {
+      "path": "config/simplyswords/status_effects.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/simplyswords/status_effects.toml",
+      "sha1": "acad40876fdc4838448733d488bd5fe6031984cc",
+      "size": 85
+    },
+    {
+      "path": "config/simplyswords/unique_effects.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/simplyswords/unique_effects.toml",
+      "sha1": "8103096cd41be491bb2e256c0510191c536b9f06",
+      "size": 16376
+    },
+    {
+      "path": "config/simplyswords/weapon_attributes.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/simplyswords/weapon_attributes.toml",
+      "sha1": "3d94fbb2bac9951c2e067f38d5cdd81c42f7eab2",
+      "size": 4777
+    },
+    {
+      "path": "config/simplytooltips/config.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/simplytooltips/config.toml",
+      "sha1": "e97dfa580a08b305de4470027b69d28ba2862584",
+      "size": 342
+    },
+    {
+      "path": "config/skinlayers.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/skinlayers.json",
+      "sha1": "9552e0366319f47881639dbcb36713bbfad98a58",
+      "size": 497
+    },
+    {
+      "path": "config/sodiumdynamiclights-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/sodiumdynamiclights-client.toml",
+      "sha1": "6cc0f822d81b95d1c458dfef92ba5a1daae9053b",
+      "size": 659
+    },
+    {
+      "path": "config/sophisticatedbackpacks-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/sophisticatedbackpacks-common.toml",
+      "sha1": "300cb0348cbb41fb48bab6849802495881fc9b93",
+      "size": 122
+    },
+    {
+      "path": "config/sophisticatedcore-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/sophisticatedcore-client.toml",
+      "sha1": "235f9d3d77f6fa349bd2381f78e231103e8a54c6",
+      "size": 478
+    },
+    {
+      "path": "config/sophisticatedcore-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/sophisticatedcore-common.toml",
+      "sha1": "2eb609e21350a354581c5530c5d88954b4c49639",
+      "size": 12047
+    },
+    {
+      "path": "config/sophisticatedstorage-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/sophisticatedstorage-client.toml",
+      "sha1": "dfd297eced523cfe305a0a4baf2a7eec46db4f1f",
+      "size": 652
+    },
+    {
+      "path": "config/sophisticatedstorage-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/sophisticatedstorage-common.toml",
+      "sha1": "45f525ee208d709040d62c855dd62836015c21a6",
+      "size": 190
+    },
+    {
+      "path": "config/supplementaries-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/supplementaries-client.toml",
+      "sha1": "79b241cb5d00395f611b1bfbb4ad952560752a24",
+      "size": 9370
+    },
+    {
+      "path": "config/supplementaries-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/supplementaries-common.toml",
+      "sha1": "9bf4e043e3e525a748b4736cb01be3339e98fedd",
+      "size": 24952
+    },
+    {
+      "path": "config/terrablender.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/terrablender.toml",
+      "sha1": "6aafe73ff2fd229ef1db7bd1ca6580beedecb846",
+      "size": 552
+    },
+    {
+      "path": "config/torchmaster.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/torchmaster.toml",
+      "sha1": "9ceb1a3f640ef519e8fbfbc7570a9cfdb0390fa5",
+      "size": 2606
+    },
+    {
+      "path": "config/towns_and_towers/structure_enable_or_disable_new.json5",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/towns_and_towers/structure_enable_or_disable_new.json5",
+      "sha1": "69fded703016a69d9451990d422682cdd3267eeb",
+      "size": 3088
+    },
+    {
+      "path": "config/towns_and_towers/structure_rarity_new.json5",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/towns_and_towers/structure_rarity_new.json5",
+      "sha1": "9e1c0a0a380d2256a79ea6b2a6af45842e02e16e",
+      "size": 1581
+    },
+    {
+      "path": "config/transition.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/transition.json",
+      "sha1": "8b50cd4b9956dc3443acd38e47f80e23ff7712f5",
+      "size": 97
+    },
+    {
+      "path": "config/trashslot-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/trashslot-common.toml",
+      "sha1": "91ff5f5508cbe930d5a3a6ee40f5e97f7d38bbd4",
+      "size": 754
+    },
+    {
+      "path": "config/trender.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/trender.json",
+      "sha1": "8b2dd1fd2ca9c7dc83354cd2c649c486864cea76",
+      "size": 44
+    },
+    {
+      "path": "config/vinery.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/vinery.toml",
+      "sha1": "8317aa1c5dced88d7aea87c7c9beee098b768350",
+      "size": 2933
+    },
+    {
+      "path": "config/voicechat-client.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/voicechat-client.toml",
+      "sha1": "6a87c562a167f9b5faf95bf1f446422f887ff96a",
+      "size": 94
+    },
+    {
+      "path": "config/voicechat/category-volumes.properties",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/voicechat/category-volumes.properties",
+      "sha1": "c9f8fd05a81e609071657f5c4c27d5cd377c5b12",
+      "size": 46
+    },
+    {
+      "path": "config/voicechat/player-volumes.properties",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/voicechat/player-volumes.properties",
+      "sha1": "c77eeb6fb16c2844e9bbcf19667d30c9401212d5",
+      "size": 44
+    },
+    {
+      "path": "config/voicechat/translations.properties",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/voicechat/translations.properties",
+      "sha1": "383e00e7dd0d5f00daa2ffcfd24c939d255dc7e3",
+      "size": 1182
+    },
+    {
+      "path": "config/voicechat/username-cache.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/voicechat/username-cache.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+      "size": 2
+    },
+    {
+      "path": "config/voicechat/voicechat-client.properties",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/voicechat/voicechat-client.properties",
+      "sha1": "daaaae1f12d3e276f313186b13a0d947537d2484",
+      "size": 5063
+    },
+    {
+      "path": "config/voicechat/voicechat-server.properties",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/voicechat/voicechat-server.properties",
+      "sha1": "4d24b1dea6c3fe109ce7282637d3dc7e73ae4c49",
+      "size": 3072
+    },
+    {
+      "path": "config/waystones-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/waystones-common.toml",
+      "sha1": "a815a7a44b15f6d5dd4ecb6fe3919d80423a1463",
+      "size": 6956
+    },
+    {
+      "path": "config/wildernature.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/wildernature.toml",
+      "sha1": "42fb43b9374982d03dc112c51e333298ea0f4f16",
+      "size": 3211
+    },
+    {
+      "path": "config/yacl.json5",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/yacl.json5",
+      "sha1": "ef6eac77bc8ec50971872b820002db7227ece802",
+      "size": 35
+    },
+    {
+      "path": "config/zeta-common.toml",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/config/zeta-common.toml",
+      "sha1": "b9ac591d24d1aa8749b068972c528de92193a5ce",
+      "size": 1912
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/example_block.png",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/kubejs/assets/kubejs/textures/block/example_block.png",
+      "sha1": "87f5ec8c26493050fc83543af8d33f2d28a98766",
+      "size": 247
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/example_item.png",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/kubejs/assets/kubejs/textures/item/example_item.png",
+      "sha1": "d9912cb709ad496b10f19f8b2c66d1e419eb760c",
+      "size": 372
+    },
+    {
+      "path": "kubejs/assets/ponderjs_generated/lang/en_us.json",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/kubejs/assets/ponderjs_generated/lang/en_us.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+      "size": 2
+    },
+    {
+      "path": "kubejs/client_scripts/example.js",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/kubejs/client_scripts/example.js",
+      "sha1": "dfe0a9197b4b80a3f1235afa6f825857d9ead98a",
+      "size": 126
+    },
+    {
+      "path": "kubejs/config/client.properties",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/kubejs/config/client.properties",
+      "sha1": "e6f392ddb1a76cc8b1c1865cf1be81e838cf4a74",
+      "size": 375
+    },
+    {
+      "path": "kubejs/config/common.properties",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/kubejs/config/common.properties",
+      "sha1": "91e9f4810009226c19835b9a8b8c1f7842b1b09c",
+      "size": 342
+    },
+    {
+      "path": "kubejs/README.txt",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/kubejs/README.txt",
+      "sha1": "3e56c097cd0c5be61b767a9a9ae73ae083d2eca9",
+      "size": 1203
+    },
+    {
+      "path": "kubejs/startup_scripts/example.js",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/kubejs/startup_scripts/example.js",
+      "sha1": "bbeca4224e5e4dd007400d47b0f1e6618e8c68ec",
+      "size": 127
+    },
+    {
+      "path": "mods/[1.20-1.20.1] Comics Bubbles Chat-1.3.4.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/%5B1.20-1.20.1%5D%20Comics%20Bubbles%20Chat-1.3.4.jar",
+      "sha1": "704023d1816fd4a22b5c1176b73221e6e1caaede",
+      "size": 59047
+    },
+    {
+      "path": "mods/[1.20.1] SecurityCraft v1.10.2.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/%5B1.20.1%5D%20SecurityCraft%20v1.10.2.1.jar",
+      "sha1": "6184ca6af68a0a4e8ca4dd28a542b5d1a6c2e3ab",
+      "size": 4995865
+    },
+    {
+      "path": "mods/abyssal_decor-0.11.0-forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/abyssal_decor-0.11.0-forge-1.20.1.jar",
+      "sha1": "957a93807de2b53339631a10fdb357cfb7f1c720",
+      "size": 11280208
+    },
+    {
+      "path": "mods/accessories-neoforge-1.0.0-beta.48+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/accessories-neoforge-1.0.0-beta.48%2B1.20.1.jar",
+      "sha1": "22d8aed468ce41b78389b801cec1cd33faa5edb5",
+      "size": 1080048
+    },
+    {
+      "path": "mods/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+      "sha1": "6e7b01db61f9646977bd06e9d85492a667d4a8bd",
+      "size": 208850
+    },
+    {
+      "path": "mods/alexscaves-2.0.2.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/alexscaves-2.0.2.jar",
+      "sha1": "a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53",
+      "size": 74871657
+    },
+    {
+      "path": "mods/alexsmobs-1.22.9.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/alexsmobs-1.22.9.jar",
+      "sha1": "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f",
+      "size": 26350793
+    },
+    {
+      "path": "mods/almanac-forge-1.20.1-1.26.11.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/almanac-forge-1.20.1-1.26.11.1.jar",
+      "sha1": "b969a44446e2a4acbed231520682fc6037ce372c",
+      "size": 418235
+    },
+    {
+      "path": "mods/ancient_remnants-1.0.2.2.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/ancient_remnants-1.0.2.2.jar",
+      "sha1": "c57d45a4ce37aeb95bea7a07ef6c5d0c8a3610ed",
+      "size": 441134
+    },
+    {
+      "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "sha1": "81919356f84eab14258db98924b66c3c38e372b1",
+      "size": 47428
+    },
+    {
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/architectury-9.2.14-forge.jar",
+      "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+      "size": 580602
+    },
+    {
+      "path": "mods/artifacts-forge-9.5.19.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/artifacts-forge-9.5.19.jar",
+      "sha1": "91ab6fc2cc208550f7fc37c43e42eba81eff318e",
+      "size": 850974
+    },
+    {
+      "path": "mods/athena-forge-1.20.1-3.1.2.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/athena-forge-1.20.1-3.1.2.jar",
+      "sha1": "2acee24454af859988a691f0506271a465f68f7b",
+      "size": 91808
+    },
+    {
+      "path": "mods/BadOptimizations-2.4.1-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/BadOptimizations-2.4.1-1.20.1.jar",
+      "sha1": "304007dcb0fb15ed1a1bc3771736470dafc5be0f",
+      "size": 460234
+    },
+    {
+      "path": "mods/baguettelib-1.20.1-Forge-2.0.7.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/baguettelib-1.20.1-Forge-2.0.7.jar",
+      "sha1": "e4f18588d02137f34989393fad5a7369ef03a862",
+      "size": 63126
+    },
+    {
+      "path": "mods/balm-forge-1.20.1-7.3.44.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/balm-forge-1.20.1-7.3.44.jar",
+      "sha1": "b3f8a6a5823d3b4f2dce19c8aea9373e24bcb443",
+      "size": 561741
+    },
+    {
+      "path": "mods/beautify-2.0.2.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/beautify-2.0.2.jar",
+      "sha1": "497ab2ebccbf89f15845428cf0e26ca5d9c4ce76",
+      "size": 838292
+    },
+    {
+      "path": "mods/beer_craft-1.20.1-1.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/beer_craft-1.20.1-1.1.jar",
+      "sha1": "22590c0f8720c96dc969292ec3c0e72f676be903",
+      "size": 827605
+    },
+    {
+      "path": "mods/BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/BetterCompatibilityChecker-forge-4.0.8%2Bmc1.20.1.jar",
+      "sha1": "c5407cfd0b38d8db6d6f1c0088397f4c5616c7ae",
+      "size": 26540
+    },
+    {
+      "path": "mods/bettervillage-forge-1.20.1-3.3.1-all.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/bettervillage-forge-1.20.1-3.3.1-all.jar",
+      "sha1": "0c2f647cec98c3a4ca6d05b7a2f14962e66ad824",
+      "size": 2612506
+    },
+    {
+      "path": "mods/BiomesOPlenty-1.20.1-18.0.0.592.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/BiomesOPlenty-1.20.1-18.0.0.592.jar",
+      "sha1": "15072eb39c35a3f845d4bb04690d4b7f1808a980",
+      "size": 21800460
+    },
+    {
+      "path": "mods/Bookshelf-Forge-1.20.1-20.2.15.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Bookshelf-Forge-1.20.1-20.2.15.jar",
+      "sha1": "9df4908f606c6dc62a358b3e04e3fdedba59a12c",
+      "size": 343925
+    },
+    {
+      "path": "mods/born_in_chaos_[Forge]1.20.1_1.7.5.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/born_in_chaos_%5BForge%5D1.20.1_1.7.5.jar",
+      "sha1": "4d616e1ccef4c55e14b04ca63228d826f4fdda5e",
+      "size": 11839865
+    },
+    {
+      "path": "mods/BotanyPots-Forge-1.20.1-13.0.43.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/BotanyPots-Forge-1.20.1-13.0.43.jar",
+      "sha1": "36d5c12071293df90a3599df6076b974e94b26d3",
+      "size": 1050211
+    },
+    {
+      "path": "mods/BotanyTrees-Forge-1.20.1-9.0.20.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/BotanyTrees-Forge-1.20.1-9.0.20.jar",
+      "sha1": "de22565d05cfb2b9995ae622055e592b5c8f0a9a",
+      "size": 261756
+    },
+    {
+      "path": "mods/braziliandelight-forge-2.0.3+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/braziliandelight-forge-2.0.3%2B1.20.1.jar",
+      "sha1": "77750debc1c73910747e872b2bb899c9a0ca49f8",
+      "size": 2813612
+    },
+    {
+      "path": "mods/c2meforge-0.2.0-forge.9.9.6-all.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/c2meforge-0.2.0-forge.9.9.6-all.jar",
+      "sha1": "29ad8a207749081458221e7d97b1201c2181d62d",
+      "size": 1400830
+    },
+    {
+      "path": "mods/camera-forge-1.20.1-1.0.20.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/camera-forge-1.20.1-1.0.20.jar",
+      "sha1": "299cc4fa41a12a247cc73024259247574bfa5d0e",
+      "size": 299726
+    },
+    {
+      "path": "mods/carryon-forge-1.20.1-2.1.2.7.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/carryon-forge-1.20.1-2.1.2.7.jar",
+      "sha1": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f",
+      "size": 439457
+    },
+    {
+      "path": "mods/celestisynth-1.20.1-1.3.4-all.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/celestisynth-1.20.1-1.3.4-all.jar",
+      "sha1": "1e0b3462ff81b012fb7914110e68a386aca3a316",
+      "size": 2664860
+    },
+    {
+      "path": "mods/chatplus-forge-2.10.0.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/chatplus-forge-2.10.0.jar",
+      "sha1": "29beeffdf11b3e658e299b35cf9d3230f968991e",
+      "size": 27166329
+    },
+    {
+      "path": "mods/chipped-forge-1.20.1-3.0.7.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/chipped-forge-1.20.1-3.0.7.jar",
+      "sha1": "25ee2a0846059d8f21d28b94b7e0229b60cb5499",
+      "size": 15060263
+    },
+    {
+      "path": "mods/citadel-2.6.3-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/citadel-2.6.3-1.20.1.jar",
+      "sha1": "fb0b1fa96ce28e4be77b38ad95d83c3da7ec8316",
+      "size": 3185275
+    },
+    {
+      "path": "mods/cloth-config-11.1.136-forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/cloth-config-11.1.136-forge.jar",
+      "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+      "size": 1181413
+    },
+    {
+      "path": "mods/Clumps-forge-1.20.1-12.0.0.4.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Clumps-forge-1.20.1-12.0.0.4.jar",
+      "sha1": "97cc669f68dbe812cb77cc3631339334fc28b877",
+      "size": 20299
+    },
+    {
+      "path": "mods/collective-1.20.1-8.87.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/collective-1.20.1-8.87.jar",
+      "sha1": "1e3dd2e0024baee257f27a671cb11b9fd36f6574",
+      "size": 1131568
+    },
+    {
+      "path": "mods/colorfulhearts-forge-1.20.1-4.3.16.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/colorfulhearts-forge-1.20.1-4.3.16.jar",
+      "sha1": "840036c824edfe6e155f4488337e5f5aec26a17f",
+      "size": 122868
+    },
+    {
+      "path": "mods/connectedglass-1.1.14-forge-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/connectedglass-1.1.14-forge-mc1.20.1.jar",
+      "sha1": "2f65edcf4faed33979d5dec81597b472abf17325",
+      "size": 873714
+    },
+    {
+      "path": "mods/constructionwand-1.20.1-2.11.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/constructionwand-1.20.1-2.11.jar",
+      "sha1": "80bd5223cd8984dc1038cb9f2d1cb6b97f31998a",
+      "size": 210312
+    },
+    {
+      "path": "mods/Controlling-forge-1.20.1-12.0.2.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Controlling-forge-1.20.1-12.0.2.jar",
+      "sha1": "f6d3cdd3ec68c5590cf5b2e89c38dbf031824bfd",
+      "size": 115280
+    },
+    {
+      "path": "mods/Corgilib-Forge-1.20.1-4.0.3.6.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Corgilib-Forge-1.20.1-4.0.3.6.jar",
+      "sha1": "dc26327631fa34c25139e2d3c95b3274e8978336",
+      "size": 318788
+    },
+    {
+      "path": "mods/coroutil-forge-1.20.1-1.3.7.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/coroutil-forge-1.20.1-1.3.7.jar",
+      "sha1": "7f5f0b62a638b6053c95919cbe8c2bea2e0c93d0",
+      "size": 64187
+    },
+    {
+      "path": "mods/corpse-forge-1.20.1-1.0.23.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/corpse-forge-1.20.1-1.0.23.jar",
+      "sha1": "843b16ca88bc5c390bb22a2a84437e6bffdd43dd",
+      "size": 245644
+    },
+    {
+      "path": "mods/corpsecurioscompat-1.20.1-Forge-4.2.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/corpsecurioscompat-1.20.1-Forge-4.2.1.jar",
+      "sha1": "4fbbf017e67448ceba14505f69bda8c74dc6595a",
+      "size": 23427
+    },
+    {
+      "path": "mods/cosmeticarmorreworked-1.20.1-v1a.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/cosmeticarmorreworked-1.20.1-v1a.jar",
+      "sha1": "afd9fa3fe95e8c086e8d439df403ed1e5ea5cbea",
+      "size": 88752
+    },
+    {
+      "path": "mods/cosmeticcorpsecompat-1.19.x-1.20.x-Forge-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/cosmeticcorpsecompat-1.19.x-1.20.x-Forge-1.0.0.jar",
+      "sha1": "68ea28d819d01251c38a9e36a4ce7487cf7b8723",
+      "size": 9595
+    },
+    {
+      "path": "mods/CrashAssistant-forge-1.19-1.20.1-1.11.12.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/CrashAssistant-forge-1.19-1.20.1-1.11.12.jar",
+      "sha1": "b309bd4803d5fcf27397b5ea60bbe4bb332bc809",
+      "size": 3503813
+    },
+    {
+      "path": "mods/create-1.20.1-6.0.6.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/create-1.20.1-6.0.6.jar",
+      "sha1": "c5eb5efad7a4776d558b44b28891f2e33eef03e4",
+      "size": 18764522
+    },
+    {
+      "path": "mods/cristellib-1.1.6-forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/cristellib-1.1.6-forge.jar",
+      "sha1": "524ecf0f93f28be2f5db21d87dd81bdbc1a450e1",
+      "size": 431318
+    },
+    {
+      "path": "mods/crittersandcompanions-forge-1.20.1-2.7.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/crittersandcompanions-forge-1.20.1-2.7.1.jar",
+      "sha1": "914802e55d21ffb6221875e47838f8175bc28f2f",
+      "size": 2115160
+    },
+    {
+      "path": "mods/Croptopia-1.20.1-FORGE-4.0.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Croptopia-1.20.1-FORGE-4.0.1.jar",
+      "sha1": "ddec955cea11a6d65b8bdc50951d11e0896353d6",
+      "size": 2155802
+    },
+    {
+      "path": "mods/croptopiadelight-1.3.2.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/croptopiadelight-1.3.2.jar",
+      "sha1": "cd163588421d9fbdf461e9e03151413bbbec8850",
+      "size": 86280
+    },
+    {
+      "path": "mods/curios-forge-5.14.1+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/curios-forge-5.14.1%2B1.20.1.jar",
+      "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+      "size": 398066
+    },
+    {
+      "path": "mods/CustomPlayerModels-1.20-0.6.27a.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/CustomPlayerModels-1.20-0.6.27a.jar",
+      "sha1": "4652dee093c796799756f5f6c89314c6d601ae65",
+      "size": 2805930
+    },
+    {
+      "path": "mods/Data_Anchor-forge-1.20.1-1.0.0.24.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Data_Anchor-forge-1.20.1-1.0.0.24.jar",
+      "sha1": "bb841e6ae8ff537f7a568adfd1a3411e190fd494",
+      "size": 117737
+    },
+    {
+      "path": "mods/deco_storage-4.0909-forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/deco_storage-4.0909-forge-1.20.1.jar",
+      "sha1": "91aca77cc21168cad9cf14fedb054e045ec84e8f",
+      "size": 737766
+    },
+    {
+      "path": "mods/decorative_blocks-forge-1.20.1-4.1.3.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/decorative_blocks-forge-1.20.1-4.1.3.jar",
+      "sha1": "10263d3e99807662ff065edce0e470fe62e84b30",
+      "size": 573928
+    },
+    {
+      "path": "mods/decorative_core-2.0705-forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/decorative_core-2.0705-forge-1.20.1.jar",
+      "sha1": "2125dc501a890f387d6869a1d1a0d149f8d40389",
+      "size": 31555
+    },
+    {
+      "path": "mods/deltaboxlib-forge-2.2.0+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/deltaboxlib-forge-2.2.0%2B1.20.1.jar",
+      "sha1": "8f5cd619b02eaccd936cc6a3e1e47fe558a728b7",
+      "size": 804529
+    },
+    {
+      "path": "mods/doubledoors-1.20.1-7.5.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/doubledoors-1.20.1-7.5.jar",
+      "sha1": "22f8460831cc245abdd3ae32004c266f14410e64",
+      "size": 51871
+    },
+    {
+      "path": "mods/dummmmmmy-1.20-2.0.12-forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/dummmmmmy-1.20-2.0.12-forge.jar",
+      "sha1": "3b6da54436955ea2ca6e8891ef69d0f6621ab878",
+      "size": 839685
+    },
+    {
+      "path": "mods/DungeonsArise-1.20.x-2.1.58-release.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/DungeonsArise-1.20.x-2.1.58-release.jar",
+      "sha1": "30b4520e4fab40a6bb6153a2c72e34bcb721f0a5",
+      "size": 8762342
+    },
+    {
+      "path": "mods/DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar",
+      "sha1": "0390b912cc5534bbe0f01853337d777453ca08de",
+      "size": 248169
+    },
+    {
+      "path": "mods/dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/dynamic-fps-3.11.4%2Bminecraft-1.20.0-forge.jar",
+      "sha1": "43b3e0766a9e7a30651cc01756476657b865b7a2",
+      "size": 402345
+    },
+    {
+      "path": "mods/easy-villagers-forge-1.20.1-1.1.23.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/easy-villagers-forge-1.20.1-1.1.23.jar",
+      "sha1": "97690e4039eb71258892edde8b2da8661dffbf5c",
+      "size": 411343
+    },
+    {
+      "path": "mods/EasyAnvils-v8.0.2-1.20.1-Forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/EasyAnvils-v8.0.2-1.20.1-Forge.jar",
+      "sha1": "d44a8b549b27713a92d59148729bf374ff3e25f0",
+      "size": 141744
+    },
+    {
+      "path": "mods/elevatorid-1.20.1-1.9.2-forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/elevatorid-1.20.1-1.9.2-forge.jar",
+      "sha1": "5d7a852c1cd78ad1559c64137ac067961ebfa711",
+      "size": 187858
+    },
+    {
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/embeddium-0.3.31%2Bmc1.20.1.jar",
+      "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+      "size": 1320675
+    },
+    {
+      "path": "mods/emotecraft-borrow-their-emote-1.0.2-1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/emotecraft-borrow-their-emote-1.0.2-1.20.1-forge.jar",
+      "sha1": "f978b02cacd9c7d7530e39e78a7999f9dd5ff283",
+      "size": 490293
+    },
+    {
+      "path": "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+      "sha1": "fcff067375cfe917cbf235218f49ceb58e598a5c",
+      "size": 680255
+    },
+    {
+      "path": "mods/EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
+      "sha1": "0328a8350cf0a6d1c44265367a077649088b354b",
+      "size": 66883
+    },
+    {
+      "path": "mods/enemyexpansion-2.3.1-forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/enemyexpansion-2.3.1-forge-1.20.1.jar",
+      "sha1": "f21c0b158990b480fcebf6c6cc91434e02fb8a1c",
+      "size": 1006273
+    },
+    {
+      "path": "mods/Enhanced-Celestials-forge-1.20.1-5.0.3.3.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Enhanced-Celestials-forge-1.20.1-5.0.3.3.jar",
+      "sha1": "3a7ac29b6e3561b34fd68d9c140de89319462213",
+      "size": 1638200
+    },
+    {
+      "path": "mods/entityculling-forge-1.12.1-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/entityculling-forge-1.12.1-mc1.20.1.jar",
+      "sha1": "571a91dc42a266a70e44b6b459f996a0f7876c29",
+      "size": 1528604
+    },
+    {
+      "path": "mods/EpheroLib-1.20.1-FORGE-1.2.0.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/EpheroLib-1.20.1-FORGE-1.2.0.jar",
+      "sha1": "1eca21b906d38321bf60919dd3b12d160e5e6935",
+      "size": 756864
+    },
+    {
+      "path": "mods/evenmoreinstruments-1.20-1.20.1-6.1.4.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/evenmoreinstruments-1.20-1.20.1-6.1.4.jar",
+      "sha1": "520f230fe89f76855e9e9fb932c037d96fc53ca6",
+      "size": 6669790
+    },
+    {
+      "path": "mods/Explorify-v1.6.6.mod.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Explorify-v1.6.6.mod.jar",
+      "sha1": "d7b21626ad33d898536634764cec6c9a8cd55063",
+      "size": 775401
+    },
+    {
+      "path": "mods/FallingTree-1.20.1-4.3.6.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/FallingTree-1.20.1-4.3.6.jar",
+      "sha1": "0d02a649a1a7713ae5d88a4408e3f389d40a6031",
+      "size": 401913
+    },
+    {
+      "path": "mods/fantasyfurniture-1.20.1-9.0.0.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/fantasyfurniture-1.20.1-9.0.0.jar",
+      "sha1": "85b51d883025413c89ce52ae5e9a7071bc4e53a3",
+      "size": 3202951
+    },
+    {
+      "path": "mods/FarmersDelight-1.20.1-1.3.4.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/FarmersDelight-1.20.1-1.3.4.jar",
+      "sha1": "26f615fd35f652021f5b0f1cba68afa7d578fe15",
+      "size": 3311051
+    },
+    {
+      "path": "mods/FarmersStructures-1.0.4-1.20.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/FarmersStructures-1.0.4-1.20.jar",
+      "sha1": "efdf64144852cb4c79396ba1303a3752ad023818",
+      "size": 425995
+    },
+    {
+      "path": "mods/fast-ip-ping-v1.0.12-mc1.20.4-forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/fast-ip-ping-v1.0.12-mc1.20.4-forge.jar",
+      "sha1": "64414cc4229c909af4095ab5e8a4f3762cd55185",
+      "size": 10409
+    },
+    {
+      "path": "mods/FastFurnace-1.20.1-8.0.2.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/FastFurnace-1.20.1-8.0.2.jar",
+      "sha1": "b144b8599acd3fac3f8f9d31fa217a4a5b942f61",
+      "size": 6170
+    },
+    {
+      "path": "mods/FastLeafDecay-32.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/FastLeafDecay-32.jar",
+      "sha1": "4a76af4ca71dd9939d3c21206792c0d5f75b93a7",
+      "size": 9835
+    },
+    {
+      "path": "mods/fastpaintings-1.20-1.2.7.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/fastpaintings-1.20-1.2.7.jar",
+      "sha1": "036137a54b8f503794cf38296ff4c7fbf2e9d5cc",
+      "size": 309400
+    },
+    {
+      "path": "mods/FastSuite-1.20.1-5.1.2.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/FastSuite-1.20.1-5.1.2.jar",
+      "sha1": "32ea4495b0e646f8f060e4e97d17044dd9fdefbd",
+      "size": 26600
+    },
+    {
+      "path": "mods/FastWorkbench-1.20.1-8.0.4.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/FastWorkbench-1.20.1-8.0.4.jar",
+      "sha1": "1a322a85e7c7024b8a0715c12d27b5ed0930d729",
+      "size": 28188
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/ferritecore-6.0.1-forge.jar",
+      "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+      "size": 123034
+    },
+    {
+      "path": "mods/FramedBlocks-9.4.3.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/FramedBlocks-9.4.3.jar",
+      "sha1": "740c0feaab75455f32df7e137389f77c83fb490c",
+      "size": 4251314
+    },
+    {
+      "path": "mods/framework-forge-1.20.1-0.8.0.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/framework-forge-1.20.1-0.8.0.jar",
+      "sha1": "27347879f8760a7bc0b4bd71977abc50e498811c",
+      "size": 383868
+    },
+    {
+      "path": "mods/friendsandfoes-forge-5.0.5-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/friendsandfoes-forge-5.0.5-mc1.20.1.jar",
+      "sha1": "1f0624a66e648ce003b941c2ecb4a7faf8ef1f05",
+      "size": 5481911
+    },
+    {
+      "path": "mods/furnitury-4.0.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/furnitury-4.0.1.jar",
+      "sha1": "6865077c946e2f2ab1d7aa676904a5b0024f918b",
+      "size": 1716404
+    },
+    {
+      "path": "mods/fusion-1.3.16-forge-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/fusion-1.3.16-forge-mc1.20.1.jar",
+      "sha1": "bdaea06e0900a21d01b47389f256c99875f5824e",
+      "size": 972917
+    },
+    {
+      "path": "mods/fzzy_config-0.7.7+1.20.1+forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/fzzy_config-0.7.7%2B1.20.1%2Bforge.jar",
+      "sha1": "1a4f550dea4fb6316a96591dc46a463ee1f6602b",
+      "size": 2397175
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.8.4.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/geckolib-forge-1.20.1-4.8.4.jar",
+      "sha1": "81982cc287f80ffabb2fd36d22cc95e4255c739d",
+      "size": 1038209
+    },
+    {
+      "path": "mods/genshinstrument-1.20-1.20.1-5.0.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/genshinstrument-1.20-1.20.1-5.0.jar",
+      "sha1": "fb9b4c71539c6e78ca561ef40c0227a8c6bc5596",
+      "size": 7062280
+    },
+    {
+      "path": "mods/getittogetherdrops-forge-1.20-1.3.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/getittogetherdrops-forge-1.20-1.3.jar",
+      "sha1": "70a4d8acaedc4dfb066974726d21916b78edd7af",
+      "size": 7863
+    },
+    {
+      "path": "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "sha1": "1a0aaf7c33b9acb26bf75899a43e8941cac1f6e7",
+      "size": 87550
+    },
+    {
+      "path": "mods/gnetum-2.5.2-1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/gnetum-2.5.2-1.20.1-forge.jar",
+      "sha1": "63d79aa2f1bdc3a869299a6a6379cb5057798cae",
+      "size": 734500
+    },
+    {
+      "path": "mods/goblintraders-forge-1.20.1-1.11.5.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/goblintraders-forge-1.20.1-1.11.5.jar",
+      "sha1": "12bf1775fae7132c4f10ce3f61122bc0a2f171d6",
+      "size": 328727
+    },
+    {
+      "path": "mods/hiddennames-1.20.1-1.0.6.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/hiddennames-1.20.1-1.0.6.jar",
+      "sha1": "397459119448bea9d338c60afda0ce1ae15358c1",
+      "size": 47190
+    },
+    {
+      "path": "mods/Highlighter-1.20.1-forge-1.1.9.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Highlighter-1.20.1-forge-1.1.9.jar",
+      "sha1": "644dc33b1745ad100f513b4d169ace86fff3b2bf",
+      "size": 29438
+    },
+    {
+      "path": "mods/Iceberg-1.20.1-forge-1.1.25.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Iceberg-1.20.1-forge-1.1.25.jar",
+      "sha1": "d551ff55814cfb01403b812459ee5a02b020d87b",
+      "size": 134551
+    },
+    {
+      "path": "mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/ImmediatelyFast-Forge-1.5.5%2B1.20.4.jar",
+      "sha1": "9eacd407b7dea636d375dc47335d92f616484ea2",
+      "size": 532063
+    },
+    {
+      "path": "mods/inv_view-4.2.1-forge+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/inv_view-4.2.1-forge%2B1.20.1.jar",
+      "sha1": "d5f661ccf0d023ca28dad9195a05cf4ed3e5b15b",
+      "size": 50724
+    },
+    {
+      "path": "mods/ironfurnaces-1.20.1-4.1.8.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/ironfurnaces-1.20.1-4.1.8.jar",
+      "sha1": "55386bfd5746bd8588df5d45f19cc964b666afe5",
+      "size": 612921
+    },
+    {
+      "path": "mods/irons_lib-1.20.1-2.3.0.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/irons_lib-1.20.1-2.3.0.jar",
+      "sha1": "3a6fecda42c8469580ee82d80c0bedcec775a150",
+      "size": 1144018
+    },
+    {
+      "path": "mods/irons_restrictions-1.20.1-1.4.0.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/irons_restrictions-1.20.1-1.4.0.jar",
+      "sha1": "6a909c6bd515467aac3b1acd590374764f430d2c",
+      "size": 874344
+    },
+    {
+      "path": "mods/irons_spellbooks-1.20.1-3.16.3.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/irons_spellbooks-1.20.1-3.16.3.jar",
+      "sha1": "726345aa215756bd30b7cf8c338c9ae6bbc59799",
+      "size": 15570397
+    },
+    {
+      "path": "mods/Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar",
+      "sha1": "d8fa4e840a3d60f2172de0584d804d0bf7e6db19",
+      "size": 22930
+    },
+    {
+      "path": "mods/itemblacklist-1.20.1-1.1.5.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/itemblacklist-1.20.1-1.1.5.jar",
+      "sha1": "525a979e44fa4bcf03942960de7475ec0c65f594",
+      "size": 41443
+    },
+    {
+      "path": "mods/ItemBorders-1.20.1-forge-1.2.2.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/ItemBorders-1.20.1-forge-1.2.2.jar",
+      "sha1": "cf42466689489348e1e3a5df00d2ce6c65dd978a",
+      "size": 20832
+    },
+    {
+      "path": "mods/Ixeris-4.6.11-1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Ixeris-4.6.11-1.20.1-forge.jar",
+      "sha1": "a5d41e10dca66e01ca6fcf425b70762ff7f9475b",
+      "size": 1597231
+    },
+    {
+      "path": "mods/Jade-1.20.1-Forge-11.13.3.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Jade-1.20.1-Forge-11.13.3.jar",
+      "sha1": "d08e64e66521d69e083c8525f1fc507f1c202384",
+      "size": 553487
+    },
+    {
+      "path": "mods/jei-1.20.1-forge-15.74.0.234.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/jei-1.20.1-forge-15.74.0.234.jar",
+      "sha1": "1ae408badfe8b57417f465a06fc4d03215dba993",
+      "size": 4805946
+    },
+    {
+      "path": "mods/journeymap-forge-1.20.1-6.0.7.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/journeymap-forge-1.20.1-6.0.7.jar",
+      "sha1": "fb9411d6d516f604a8fa63ba505205d813d7caa1",
+      "size": 4353808
+    },
+    {
+      "path": "mods/justzoom_forge_3.1.0_MC_1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/justzoom_forge_3.1.0_MC_1.20.1.jar",
+      "sha1": "9b421058072bc809457832227d85b7ef268892a2",
+      "size": 355850
+    },
+    {
+      "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "sha1": "2019d821bed9071daabed43979433a5473ceee49",
+      "size": 625185
+    },
+    {
+      "path": "mods/kotlinforforge-4.12.0-all.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/kotlinforforge-4.12.0-all.jar",
+      "sha1": "962fdb760409d6d71cbf079235f1ca94e3863a22",
+      "size": 7442998
+    },
+    {
+      "path": "mods/Ksyxis-1.4.6.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Ksyxis-1.4.6.jar",
+      "sha1": "6de6271329e0c83e3ccc0512a0d3cfcc3e790d3f",
+      "size": 23873
+    },
+    {
+      "path": "mods/kubejs-forge-2001.6.5-build.26.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/kubejs-forge-2001.6.5-build.26.jar",
+      "sha1": "8b0cc9797d4ed00fd2d1002d58960af8b32012ae",
+      "size": 1658792
+    },
+    {
+      "path": "mods/L_Enders_Cataclysm-3.31.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/L_Enders_Cataclysm-3.31.jar",
+      "sha1": "4f1165cb39521292e826b471b4808bb89f0f4f3f",
+      "size": 73916104
+    },
+    {
+      "path": "mods/LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+      "sha1": "7d83a56572d333ea352706872f565b8b8537085c",
+      "size": 55258
+    },
+    {
+      "path": "mods/letmedespawn-forge-1.20.1-1.26.11.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/letmedespawn-forge-1.20.1-1.26.11.1.jar",
+      "sha1": "131866d694899a5c53222aa922719f42145f08dc",
+      "size": 27743
+    },
+    {
+      "path": "mods/letsdo-API-forge-1.2.15-forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/letsdo-API-forge-1.2.15-forge.jar",
+      "sha1": "a261043a45097d861a13a63ebdbb0ca350e06a63",
+      "size": 1440591
+    },
+    {
+      "path": "mods/letsdo-bakery-forge-1.1.15.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/letsdo-bakery-forge-1.1.15.jar",
+      "sha1": "c5cd44088089fca03f3291b851dcb0d00018fecb",
+      "size": 1539376
+    },
+    {
+      "path": "mods/letsdo-beachparty-forge-2.0.3.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/letsdo-beachparty-forge-2.0.3.jar",
+      "sha1": "7348f2a932c425a23c8950cb2956e11c32afb340",
+      "size": 7463557
+    },
+    {
+      "path": "mods/letsdo-brewery-forge-1.1.9.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/letsdo-brewery-forge-1.1.9.jar",
+      "sha1": "50e5181e734dcfc599aa0eaac376ff4e312f63c2",
+      "size": 2228646
+    },
+    {
+      "path": "mods/letsdo-camping-forge-1.0.4.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/letsdo-camping-forge-1.0.4.jar",
+      "sha1": "c4dd8af89d99efcb4a8726dc8b755390434e46fc",
+      "size": 685988
+    },
+    {
+      "path": "mods/letsdo-farm_and_charm-forge-1.0.14.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/letsdo-farm_and_charm-forge-1.0.14.jar",
+      "sha1": "4db017c18fff8356e1aa5f0e9c683f1af30bec2b",
+      "size": 2328624
+    },
+    {
+      "path": "mods/letsdo-herbalbrews-forge-1.0.12.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/letsdo-herbalbrews-forge-1.0.12.jar",
+      "sha1": "3de7feb383868a0db45351580d6ef5b05b776f16",
+      "size": 735868
+    },
+    {
+      "path": "mods/letsdo-meadow-forge-1.3.25.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/letsdo-meadow-forge-1.3.25.jar",
+      "sha1": "da7d934ff35f03279bee6597362f30d2aea7462f",
+      "size": 2676511
+    },
+    {
+      "path": "mods/letsdo-vinery-forge-1.4.41.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/letsdo-vinery-forge-1.4.41.jar",
+      "sha1": "68ed3fa9524bef601064f49f60a30423db2f8fdc",
+      "size": 2041283
+    },
+    {
+      "path": "mods/letsdo-wildernature-forge-1.0.6.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/letsdo-wildernature-forge-1.0.6.jar",
+      "sha1": "815dee091892877bfdbb11b330ea2a304937b779",
+      "size": 2102995
+    },
+    {
+      "path": "mods/libraryferret-forge-1.20.1-4.0.0.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/libraryferret-forge-1.20.1-4.0.0.jar",
+      "sha1": "29f240c16ff1a1bc574d69162d379cc1c881e1ab",
+      "size": 190536
+    },
+    {
+      "path": "mods/lionfishapi-3.0.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/lionfishapi-3.0.jar",
+      "sha1": "79d0404f87fa066480b18c844c1e0b1c5f5475f9",
+      "size": 101931
+    },
+    {
+      "path": "mods/lithostitched-forge-1.20.1-1.4.12.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/lithostitched-forge-1.20.1-1.4.12.jar",
+      "sha1": "c8a23f9c1975f11a8d10110aa862251a6043db78",
+      "size": 480788
+    },
+    {
+      "path": "mods/lootr-forge-1.20-0.7.35.94.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/lootr-forge-1.20-0.7.35.94.jar",
+      "sha1": "1ec77a7df8adbf3290a296bf25b8f99f37a60020",
+      "size": 463485
+    },
+    {
+      "path": "mods/mcw-bridges-3.1.2-mc1.20.1forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/mcw-bridges-3.1.2-mc1.20.1forge.jar",
+      "sha1": "24f30313977ec61520a2adab321188b51c208d16",
+      "size": 693579
+    },
+    {
+      "path": "mods/mcw-furniture-3.4.1-mc1.20.1forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/mcw-furniture-3.4.1-mc1.20.1forge.jar",
+      "sha1": "c05189646bbde5c0d4486b93de0d707115f8445c",
+      "size": 2174615
+    },
+    {
+      "path": "mods/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+      "sha1": "214da89b2153d496343bde8626283975e358edbd",
+      "size": 1320692
+    },
+    {
+      "path": "mods/mezz_config-1.20.1-forge-0.7.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/mezz_config-1.20.1-forge-0.7.1.jar",
+      "sha1": "10e5446b633bd264e5e61de8e115f6dac4d8062d",
+      "size": 387068
+    },
+    {
+      "path": "mods/mobtimizations-forge-1.20.1-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/mobtimizations-forge-1.20.1-1.0.1.jar",
+      "sha1": "7a1f74a0cc178013808b09f409341d7277ebb72a",
+      "size": 27943
+    },
+    {
+      "path": "mods/modernfix-forge-5.27.93-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/modernfix-forge-5.27.93-mc1.20.1.jar",
+      "sha1": "a88e749a40778753fd2f6c649339dc1b6c572e5b",
+      "size": 1012808
+    },
+    {
+      "path": "mods/modmenu-1.0.0-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/modmenu-1.0.0-1.20.1.jar",
+      "sha1": "65cfa00500721482277c745f6eefd28a0190279f",
+      "size": 575552
+    },
+    {
+      "path": "mods/moonlight-1.20-2.16.39-forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/moonlight-1.20-2.16.39-forge.jar",
+      "sha1": "12405de298c0d6c8ba53effdc5c8f28edee3aadc",
+      "size": 1423451
+    },
+    {
+      "path": "mods/MossyLib-1.6.0+1.20.1+forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/MossyLib-1.6.0%2B1.20.1%2Bforge.jar",
+      "sha1": "9042e646775716e7e887700513f99aaa79906060",
+      "size": 374176
+    },
+    {
+      "path": "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "sha1": "d751153e722a4e014691c83f39f5b07c6ec5333c",
+      "size": 76237
+    },
+    {
+      "path": "mods/mowziesmobs-1.8.2.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/mowziesmobs-1.8.2.jar",
+      "sha1": "25ffcd175cc03650e38e60d3cb7b3e038d9d3345",
+      "size": 36033850
+    },
+    {
+      "path": "mods/Necronomicon-Forge-1.6.0+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Necronomicon-Forge-1.6.0%2B1.20.1.jar",
+      "sha1": "2ad4ffa0fb087e4467c6f7496d456fc1ac949ebf",
+      "size": 33251
+    },
+    {
+      "path": "mods/nenus_pop_plushies-2.11.2-forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/nenus_pop_plushies-2.11.2-forge-1.20.1.jar",
+      "sha1": "04fed595dd5c055485c6e36e4bf85fcda0f51789",
+      "size": 4049345
+    },
+    {
+      "path": "mods/obe-1.20.1-forge-1.2.9-srg.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/obe-1.20.1-forge-1.2.9-srg.jar",
+      "sha1": "0443665d34f7b2d49da7c6499554f287316ce28f",
+      "size": 914085
+    },
+    {
+      "path": "mods/Paraglider-forge-20.1.3.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Paraglider-forge-20.1.3.jar",
+      "sha1": "51fdf94686fc847515e6de8a6c9fd4dab3466ea5",
+      "size": 589055
+    },
+    {
+      "path": "mods/particle_core-0.3.3+1.20.1+forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/particle_core-0.3.3%2B1.20.1%2Bforge.jar",
+      "sha1": "1da5744853d17979033d5ee3cd4251b8340ea7be",
+      "size": 773448
+    },
+    {
+      "path": "mods/Placebo-1.20.1-8.6.3.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Placebo-1.20.1-8.6.3.jar",
+      "sha1": "e85f53de2e582a79ce25ff1df1e7b5b5fc08440f",
+      "size": 282474
+    },
+    {
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
+      "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
+      "size": 181437
+    },
+    {
+      "path": "mods/polymorph-forge-0.49.11+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/polymorph-forge-0.49.11%2B1.20.1.jar",
+      "sha1": "4f464a183a2df82978c3f6cf55e714bde694af68",
+      "size": 301935
+    },
+    {
+      "path": "mods/ponderjs-1.20.1-2.1.0.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/ponderjs-1.20.1-2.1.0.jar",
+      "sha1": "a661c5dc6cf28815154e71e066a9e8b13a9fc0c1",
+      "size": 2285835
+    },
+    {
+      "path": "mods/Prism-1.20.1-forge-1.0.5.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Prism-1.20.1-forge-1.0.5.jar",
+      "sha1": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3",
+      "size": 52205
+    },
+    {
+      "path": "mods/PuzzlesLib-v8.1.36-1.20.1-Forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/PuzzlesLib-v8.1.36-1.20.1-Forge.jar",
+      "sha1": "d2e79bc84f0f2e75e3212ab236af08528117b213",
+      "size": 1790007
+    },
+    {
+      "path": "mods/Quark-4.0-462.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Quark-4.0-462.jar",
+      "sha1": "9b0fb82995622a0070c00827c698c43b49d9d14b",
+      "size": 14935230
+    },
+    {
+      "path": "mods/redeco-1.14.1-forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/redeco-1.14.1-forge-1.20.1.jar",
+      "sha1": "edbdd3ecfacb8bec82cb42878e3999582c3bd53d",
+      "size": 3216552
+    },
+    {
+      "path": "mods/refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "sha1": "ffb68135b88bdbb25224378c76daf922c3f4c322",
+      "size": 6689588
+    },
+    {
+      "path": "mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa",
+      "size": 432753
+    },
+    {
+      "path": "mods/rhino-forge-2001.2.3-build.10.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/rhino-forge-2001.2.3-build.10.jar",
+      "sha1": "c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1",
+      "size": 1798244
+    },
+    {
+      "path": "mods/RingsOfAscension-1.20.1-2.0.2.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/RingsOfAscension-1.20.1-2.0.2.jar",
+      "sha1": "d9e70093d6ac1b70823c48bf2742a9313c8a2989",
+      "size": 381787
+    },
+    {
+      "path": "mods/Scribble-1.5.1+mc1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Scribble-1.5.1%2Bmc1.20.1-forge.jar",
+      "sha1": "27c1cf656d8817e489a778a562b7f06711e13a09",
+      "size": 270676
+    },
+    {
+      "path": "mods/Searchables-forge-1.20.1-1.0.3.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Searchables-forge-1.20.1-1.0.3.jar",
+      "sha1": "ed5a23ec30c90fd06b3f1d8140614028e1fafaee",
+      "size": 77732
+    },
+    {
+      "path": "mods/simplehats-forge-1.20.1-0.4.0a.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/simplehats-forge-1.20.1-0.4.0a.jar",
+      "sha1": "73a28ae9919c0d1e953805f0f2e8463a34b92fcc",
+      "size": 1404910
+    },
+    {
+      "path": "mods/simplybows-forge-neoforge-0.1.4.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/simplybows-forge-neoforge-0.1.4.jar",
+      "sha1": "da7a7f6fba1a27db061bb2f839909cc954c9cfdc",
+      "size": 4051435
+    },
+    {
+      "path": "mods/SimplyHouses-1.1.4-1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/SimplyHouses-1.1.4-1.20.1-forge.jar",
+      "sha1": "c3fb8b6593599045a2528d92c1c8b79db0fb7c94",
+      "size": 460391
+    },
+    {
+      "path": "mods/simplymore-forge-neoforge-1.1.4+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/simplymore-forge-neoforge-1.1.4%2B1.20.1.jar",
+      "sha1": "02828076f559d4995f864ffa86c3cef3d27a9519",
+      "size": 1570113
+    },
+    {
+      "path": "mods/simplyswords-forge-neoforge-1.70.2-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/simplyswords-forge-neoforge-1.70.2-1.20.1.jar",
+      "sha1": "7e8b9cc255f57df9ed00b507435308d600aebc24",
+      "size": 15765792
+    },
+    {
+      "path": "mods/SimplyTooltips-forge-0.1.5-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/SimplyTooltips-forge-0.1.5-1.20.1.jar",
+      "sha1": "6f437b9269a171bf88eb6215f0dfab6e614f9f00",
+      "size": 5418741
+    },
+    {
+      "path": "mods/skinlayers3d-forge-1.11.4-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/skinlayers3d-forge-1.11.4-mc1.20.1.jar",
+      "sha1": "7091528b7228e12602e097afa14f34629067afaf",
+      "size": 2096322
+    },
+    {
+      "path": "mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "sha1": "d27524e85bed0f0af83c03be46f9ca3eb02a1be9",
+      "size": 511601
+    },
+    {
+      "path": "mods/sodiumextras-forge-1.0.7-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/sodiumextras-forge-1.0.7-1.20.1.jar",
+      "sha1": "7603f44bc4750774fbbdc07a3153c391650fcf3d",
+      "size": 438540
+    },
+    {
+      "path": "mods/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "sha1": "7529fbf938787ed13a251cbf40936f8c29ec4b6c",
+      "size": 443978
+    },
+    {
+      "path": "mods/spatial-gui-1.11.1-hotfix-1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/spatial-gui-1.11.1-hotfix-1.20.1-forge.jar",
+      "sha1": "c00310363f513bcb8cf7d76386c7f043ea602fc5",
+      "size": 926228
+    },
+    {
+      "path": "mods/supermartijn642corelib-1.1.26a-forge-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/supermartijn642corelib-1.1.26a-forge-mc1.20.1.jar",
+      "sha1": "60137bb03fe7dec06dad5ad88d729e993c619df4",
+      "size": 599911
+    },
+    {
+      "path": "mods/supplementaries-1.20-3.1.45-forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/supplementaries-1.20-3.1.45-forge.jar",
+      "sha1": "cca362c149570e3926aac82be199d66aaf94928a",
+      "size": 13687393
+    },
+    {
+      "path": "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "sha1": "3bd99fb59e8b06b04e78b5153790c1e08b2be5dc",
+      "size": 107532
+    },
+    {
+      "path": "mods/Terralith_1.20.x_v2.5.4.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Terralith_1.20.x_v2.5.4.jar",
+      "sha1": "79e1409b8db4ce86df9d6d6730f09c4bd8860a30",
+      "size": 3156901
+    },
+    {
+      "path": "mods/time-in-a-bottle-4.1.1-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/time-in-a-bottle-4.1.1-mc1.20.1.jar",
+      "sha1": "c6691825489b709066f2a348c49609ca7da7f267",
+      "size": 57462
+    },
+    {
+      "path": "mods/torchmaster-20.1.9.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/torchmaster-20.1.9.jar",
+      "sha1": "9a7f4ffdfe0dfe0a8071ac6501e52b1b4e208758",
+      "size": 119348
+    },
+    {
+      "path": "mods/Towns-and-Towers-1.12-Fabric+Forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Towns-and-Towers-1.12-Fabric%2BForge.jar",
+      "sha1": "5a28ec56457cf1bf154e993cf73dba0428a7921b",
+      "size": 2864275
+    },
+    {
+      "path": "mods/trashslot-forge-1.20.1-15.1.5.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/trashslot-forge-1.20.1-15.1.5.jar",
+      "sha1": "80cb7633f57f485ccf10b4e9248ee6ce02d0e69e",
+      "size": 117983
+    },
+    {
+      "path": "mods/Vanishmod-1.20.1-1.1.21.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Vanishmod-1.20.1-1.1.21.jar",
+      "sha1": "cdac3e891269a5522061ce78f3a4948a8b1ae22b",
+      "size": 75336
+    },
+    {
+      "path": "mods/voicechat-forge-1.20.1-2.6.22.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/voicechat-forge-1.20.1-2.6.22.jar",
+      "sha1": "cc94c3eecc325ea3066ee3cd8bf57142d1b11762",
+      "size": 4923439
+    },
+    {
+      "path": "mods/waystones-forge-1.20.1-14.1.21.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/waystones-forge-1.20.1-14.1.21.jar",
+      "sha1": "61952fb248a9689fe46d5ffb223fcc41e31fef1a",
+      "size": 536782
+    },
+    {
+      "path": "mods/worldedit-mod-7.2.15.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/worldedit-mod-7.2.15.jar",
+      "sha1": "9c52765ca56f917ef8cbafc20e9a4f45c346508f",
+      "size": 5825402
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar",
+      "sha1": "644731e321c53a35a0b3177a3cc6347fe38002f4",
+      "size": 1105891
+    },
+    {
+      "path": "mods/YungsApi-1.20-Forge-4.0.6.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/YungsApi-1.20-Forge-4.0.6.jar",
+      "sha1": "af584b690f5646c6032002b58abc4591beed3833",
+      "size": 370524
+    },
+    {
+      "path": "mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "sha1": "67a9e1c2ff126ab54cea8e0709d178915243039e",
+      "size": 792381
+    },
+    {
+      "path": "mods/Zeta-1.0-31.jar",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/mods/Zeta-1.0-31.jar",
+      "sha1": "8c4a8ef0444b53ff408d5b89126285031081d92f",
+      "size": 1006518
+    },
+    {
+      "path": "resourcepacks/Quark Programmer Art.zip",
+      "url": "https://raw.githubusercontent.com/ascensaoexiliostudios/ascensao-launcher-updates/main/modpack/resourcepacks/Quark%20Programmer%20Art.zip",
+      "sha1": "2f4cadbbaeffec5f2811b34e053450a930626c15",
+      "size": 266434
+    }
+  ]
+}
